@@ -11,7 +11,7 @@ title                    : "Takuya Ito"
 title_separator          : "-"
 name                     : &name "Takuya Ito"
 description              : &description "personal description"
-url                      : https://ito-takuya.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://ito-takuya.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ito-takuya/ito-takuya.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -84,7 +84,7 @@ author:
   location         : "Rutgers University"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=Ym08_RMAAAAJ&hl=en"
-  email            : "taku [dot] ito1 [at] gmail [dot] com"
+  email            :
   uri              :
   bitbucket        :
   codepen          :
@@ -92,13 +92,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/ito-takuya"
+  github           : "ito-takuya"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
   linkedin         :
-  orcid            : ""
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
