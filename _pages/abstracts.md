@@ -1,5 +1,4 @@
 ---
-layout: page
 title: "Abstracts"
 permalink: /abstracts/
 author_profile: true
