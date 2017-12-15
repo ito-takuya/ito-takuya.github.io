@@ -75,9 +75,9 @@
   a {
     text-decoration: none;
 
-    &:hover {
+  /*  &:hover {
       text-decoration: underline;
-
+  */
       img {
         box-shadow: 0 0 10px rgba(#000, 0.25);
       }
@@ -151,7 +151,7 @@
     }
 
     .page__title {
-      font-size: $type-size-2;
+      font-size: 1em; //$type-size-2;
 
       @include breakpoint($small) {
         font-size: $type-size-1;
