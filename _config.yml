@@ -78,7 +78,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Takuya Ito"
+  name             : ""
   avatar           : "profile.png"
   bio              : "" # for subcolumn
   location         : "Rutgers University"
