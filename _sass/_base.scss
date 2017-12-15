@@ -48,7 +48,7 @@ h6 {
 }
 
 small, .small {
-  font-size: 0.8em; //$type-size-6;
+  font-size: .35em; //0.8em; //$type-size-6;
 }
 
 p {
@@ -190,9 +190,10 @@ figure {
 
   img {
     width: 100%;
-    border-radius: $border-radius;
+    /* border-radius: $border-radius;
     -webkit-transition: $global-transition;
     transition: $global-transition;
+     */
   }
 
   > a {
