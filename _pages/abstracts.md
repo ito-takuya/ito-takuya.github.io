@@ -25,6 +25,8 @@ Schultz DH, **Ito T**, Solomyak LI, Chen RH, Mill RD, Kulkarni KR, Cole MW. (Nov
 
 **Ito T**, Schultz DH, Solomyak LI, Chen RH, Mill RD, Cole MW. (April 2016). Flexible hub updates between tasks associated with global informational connectivity changes. Cognitive Neuroscience Society, New York, NY.
 
+## hello
+
 Cole MW, Schultz DH, Chen RH, Kulkarni KR, **Ito T**. (April, 2016). The cognitive relevance of resting-state fMRI: Spontaneously organized networks and brain states across rest and task. Cognitive Neuroscience Society, New York, NY.
 
 Chen RH, Kulkarni K, **Ito T**, Cole MW. (April 2016). Spontaneously organized brain states revealed by dynamic multivariate pattern analysis of resting state fMRI. Cognitive Neuroscience Society, New York, NY.
