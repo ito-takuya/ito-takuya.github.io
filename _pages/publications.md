@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: [//]: <> (This is also a comment.) archive
 title: "Publications"
 permalink: /publications/
 author_profile: true
