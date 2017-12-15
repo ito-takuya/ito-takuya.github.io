@@ -19,8 +19,9 @@
     -webkit-transition: opacity 0.2s ease-in-out;
             transition: opacity 0.2s ease-in-out;
 
-    &:hover {
+/*    &:hover {
       opacity: 1;
+*/
     }
   }
 
@@ -85,9 +86,9 @@
     max-width: 175px;
     //border-radius: 50%;
 
- /*   @include breakpoint($large) {
-      padding: 5px;
-      border: 1px solid $border-color;*/
+    @include breakpoint($large) {
+      padding: 0px; //5px;
+      border: 0px; //1px solid $border-color;
     }
   }
 }
