@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: pages
 title: "Abstracts"
 permalink: /abstracts/
 author_profile: true
