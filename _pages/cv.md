@@ -9,11 +9,5 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-to be added
-
-Work experience
-======
-to be added
+under construction
 
