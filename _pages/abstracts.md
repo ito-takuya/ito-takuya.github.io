@@ -1,9 +1,9 @@
 ---
 layout: pages
-title: "Abstracts and presentations"
+title: "Abstracts"
 permalink: /abstracts/
 author_profile: true
----
+--- 
 
 **Ito T**, Cole MW.  (November 2017). Cognitive control networks contain a mixture of diverse connectivity patterns characteristic of predicted flexible hub mechanisms. Poster to be presented at Society for Neuroscience, Washington DC.
 
