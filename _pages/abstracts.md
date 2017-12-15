@@ -3,9 +3,9 @@ layout: archive
 title: "Abstracts"
 permalink: /abstracts/
 author_profile: true
+redirect_from:
+  - /abstracts
 ---
-
-
 **Ito T**, Cole MW.  (November 2017). Cognitive control networks contain a mixture of diverse connectivity patterns characteristic of predicted flexible hub mechanisms. Poster to be presented at Society for Neuroscience, Washington DC.
 
 Rotstein HG, **Ito T**, Stark E. (November 2017). Inhibition-based theta spiking resonance in a hippocampal network. Poster to be presented at Society for Neuroscience, Washington DC.
