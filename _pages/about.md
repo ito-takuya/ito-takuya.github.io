@@ -19,3 +19,23 @@ Broadly, my research is in cognitive, network, and computational neuroscience.
 I’m interested in multilevel brain network organization, from small neural circuits to large-scale functional networks. In particular, I’m interested in the role these networks play in distributed information processing, with a particular emphasis in flexible/adaptive behaviors. I use a combination of neuroimaging methods and mathematical/computational modeling.
 
 I also have interests in neural network modeling, graph theory, nonlinear dynamics, machine learning, and information theory.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
