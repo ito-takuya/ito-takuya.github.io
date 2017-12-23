@@ -6,7 +6,7 @@ redirect_from:
   - /abstracts
 ---
 
-**Ito T**, Cole MW.  (November 2017). [Cognitive control networks contain a mixture of diverse connectivity patterns characteristic of predicted flexible hub mechanisms](ito-takuya.github.io/files/abstracts/ItoCole_SFN2017.pdf). Poster to be presented at Society for Neuroscience, Washington DC.
+**Ito T**, Cole MW.  (November 2017). [Cognitive control networks contain a mixture of diverse connectivity patterns characteristic of predicted flexible hub mechanisms](~/files/abstracts/ItoCole_SFN2017.pdf). Poster to be presented at Society for Neuroscience, Washington DC.
 
 Rotstein HG, **Ito T**, Stark E. (November 2017). Inhibition-based theta spiking resonance in a hippocampal network. Poster to be presented at Society for Neuroscience, Washington DC.
 
@@ -16,7 +16,7 @@ Cole MW, **Ito T**. (September 2017). Computational network mechanisms of task-e
 
 Cole MW, **Ito T**, Schultz DH, Mill RD. (March 2017). Activity flows over task-evoked networks shape cognitive task activations across task switches. Poster presented at Cognitive Neuroscience Society, San Francisco, CA.
 
-**Ito T**, Schultz DH, Solomyak LI, Chen RH, Mill RD, Cole MW. (November 2016). [Cognitive control networks route task information to other networks via intrinsic functional connectivity pathways](ito-takuya.github.io/files/abstracts/ItoEtAl_SFN2016.pdf). Society for Neuroscience, San Diego, CA.
+**Ito T**, Schultz DH, Solomyak LI, Chen RH, Mill RD, Cole MW. (November 2016). [Cognitive control networks route task information to other networks via intrinsic functional connectivity pathways](../files/abstracts/ItoEtAl_SFN2016.pdf). Society for Neuroscience, San Diego, CA.
 
 Schultz DH, **Ito T**, Solomyak LI, Chen RH, Mill RD, Kulkarni KR, Cole MW. (November 2016). Cognitive control network global connectivity is related to the mental health of healthy individuals. Society for Neuroscience, San Diego, CA.
 
