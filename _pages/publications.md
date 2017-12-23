@@ -6,7 +6,8 @@ redirect_from:
   - /publications
 ---
 
-**Ito T**, Kulkarni KR, Schultz DH, Mill RD, Chen RH, Solomyak LI, & Cole MW (2017). Cognitive task information is transferred between brain regions via resting-state network topology. Nature Communications. https://doi.org/10.1038/s41467-017-01000-w
+**Ito T**, Kulkarni KR, Schultz DH, Mill RD, Chen RH, Solomyak LI, & Cole MW (2017). [Cognitive task information is transferred between brain regions via resting-state network topology](Ito et al. - 2017 - Cognitive task information is transferred between brain regions via resting-state network topology.pdf). Nature Communications. https://doi.org/10.1038/s41467-017-01000-w
+This is an example of a [link](http://github.com "Github")
 
 Mill RD, **Ito T**, Cole MW (2017). From connectome to cognition: The search for mechanism in human functional brain networks. NeuroImage. http://dx.doi.org/10.1016/j.neuroimage.2017.01.060
 
