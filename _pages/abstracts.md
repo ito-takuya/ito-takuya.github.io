@@ -1,5 +1,5 @@
 ---
-title: "Abstracts"
+title: "Conference abstracts"
 permalink: /abstracts/
 author_profile: true
 redirect_from:
