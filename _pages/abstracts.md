@@ -6,9 +6,9 @@ redirect_from:
   - /abstracts
 ---
 
-**Ito T**, Cole MW.  (November 2017). [Cognitive control networks contain a mixture of diverse connectivity patterns characteristic of predicted flexible hub mechanisms](../files/abstracts/ItoCole_SFN2017.pdf). Poster to be presented at Society for Neuroscience, Washington DC.
+**Ito T**, Cole MW.  (November 2017). [Cognitive control networks contain a mixture of diverse connectivity patterns characteristic of predicted flexible hub mechanisms](../files/abstracts/ItoCole_SFN2017.pdf). Poster presented at Society for Neuroscience, Washington DC.
 
-Rotstein HG, **Ito T**, Stark E. (November 2017). Inhibition-based theta spiking resonance in a hippocampal network. Poster to be presented at Society for Neuroscience, Washington DC.
+Rotstein HG, **Ito T**, Stark E. (November 2017). Inhibition-based theta spiking resonance in a hippocampal network. Poster presented at Society for Neuroscience, Washington DC.
 
 Schultz DH, **Ito T**, Solomyak LI, Chen RH, Mill RD, Kulkarni KR, Cole MW. (November 2017). Systematic flexibility of global functional connectivity patterns supports flexible cognitive control. Society for Neuroscience, Washington DC.
 
