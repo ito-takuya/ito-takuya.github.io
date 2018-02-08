@@ -8,11 +8,11 @@ redirect_from:
 
 #### Preprints & manuscripts in preparation
 
+**Ito T**, Cole MW (Submitted). Network dimensionality underlies flexible representation of cognitive information.
+
 Chen RH, **Ito T**, Kulkarni KR, Cole MW (2016). Large-scale multivariate activation states of the human brain. bioRxiv. doi:10.1101/068221
 
 Schultz DH, **Ito T**, Solomyak LI, Chen RH, Mill RD, Kulkarni KR, Cole MW (2017). Global connectivity of the frontoparietal cognitive control network is related to depression symptoms in undiagnosed individuals. bioRxiv. doi:10.1101/185306
-
-**Ito T**, Cole MW (In preparation). Network dimensionality underlies flexible representation of cognitive information.
 
 Kar K, **Ito T**, Wright J, Cole MW, Krekelberg B. (In prep). Changes in BOLD adaptation and functional connectivity induced by transcranial alternating current stimulation.
 
