@@ -8,13 +8,13 @@ redirect_from:
 
 #### Preprints & manuscripts in preparation
 
-**Ito T**, Cole MW (2018). Network dimensionality underlies flexible representation of cognitive information. bioRxiv. http://biorxiv.org/cgi/content/short/262626v1
+**Ito T**, Cole MW (2018). Network dimensionality underlies flexible representation of cognitive information. bioRxiv. [http://biorxiv.org/cgi/content/short/262626v1](http://biorxiv.org/cgi/content/short/262626v1)
 
-Chen RH, **Ito T**, Kulkarni KR, Cole MW (2016). Large-scale multivariate activation states of the human brain. bioRxiv. doi:10.1101/068221
+Chen RH, **Ito T**, Kulkarni KR, Cole MW (2017). Large-scale multivariate activation states of the human brain. bioRxiv. [doi:10.1101/068221](https://www.biorxiv.org/content/early/2017/04/13/068221)
 
-Schultz DH, **Ito T**, Solomyak LI, Chen RH, Mill RD, Kulkarni KR, Cole MW (2017). Global connectivity of the frontoparietal cognitive control network is related to depression symptoms in undiagnosed individuals. bioRxiv. doi:10.1101/185306
+Schultz DH, **Ito T**, Solomyak LI, Chen RH, Mill RD, Kulkarni KR, Cole MW (2017). Global connectivity of the frontoparietal cognitive control network is related to depression symptoms in undiagnosed individuals. bioRxiv. [doi:10.1101/185306](https://www.biorxiv.org/content/early/2018/01/25/185306)
 
-Kar K, **Ito T**, Wright J, Cole MW, Krekelberg B. (In prep). Changes in BOLD adaptation and functional connectivity induced by transcranial alternating current stimulation.
+Kar K, **Ito T**, Wright J, Cole MW, Krekelberg B. (In preparation). Changes in BOLD adaptation and functional connectivity induced by transcranial alternating current stimulation.
 
 #### Peer-reviewed publications
 
