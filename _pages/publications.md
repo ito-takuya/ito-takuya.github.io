@@ -8,7 +8,7 @@ redirect_from:
 
 #### Preprints & manuscripts in preparation
 
-**Ito T**, Cole MW (Submitted). Network dimensionality underlies flexible representation of cognitive information.
+**Ito T**, Cole MW (2018). Network dimensionality underlies flexible representation of cognitive information. bioRxiv. http://biorxiv.org/cgi/content/short/262626v1
 
 Chen RH, **Ito T**, Kulkarni KR, Cole MW (2016). Large-scale multivariate activation states of the human brain. bioRxiv. doi:10.1101/068221
 
