@@ -5,6 +5,7 @@ author_profile: true
 redirect_from:
   - /abstracts
 ---
+**Ito T**, Cole MW (June 2018). Dimensionality of intrinsic network connectivity underlies flexible task representation. Poster to be presented at Organization for Human Brain Mapping, Singapore.
 
 **Ito T**, Cole MW.  (November 2017). [Cognitive control networks contain a mixture of diverse connectivity patterns characteristic of predicted flexible hub mechanisms](../files/abstracts/ItoCole_SFN2017.pdf). Poster presented at Society for Neuroscience, Washington DC.
 
