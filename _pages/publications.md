@@ -6,7 +6,7 @@ redirect_from:
   - /publications
 ---
 
-#### Preprints & manuscripts in preparation
+#### Preprints / Papers under review
 
 **Ito T**, Cole MW (2018). Network dimensionality underlies flexible representation of cognitive information. bioRxiv. [http://biorxiv.org/cgi/content/short/262626v1](http://biorxiv.org/cgi/content/short/262626v1)
 
