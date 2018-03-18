@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is Takuya (Taku) Ito, and I’m a PhD candidate working with [Dr. Michael Cole](https://colelab.org) at the Center for Molecular and Behavioral Neuroscience, Rutgers University.
+My name is Takuya (Taku) Ito, and I’m a PhD candidate working with [Dr. Michael Cole](www.colelab.org) at the Center for Molecular and Behavioral Neuroscience, Rutgers University.
 
 I received my undergraduate degree in 2013 from Washington University in St. Louis with majors in Mathematics and Philosophy-Neuroscience-Psychology and a minor in Computer Science.
 
