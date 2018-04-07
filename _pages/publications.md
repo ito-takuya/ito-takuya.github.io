@@ -13,11 +13,9 @@ Cole MW, **Ito T**, Schultz DH, Mill RD, Chen RH, Cocuzza C (2018). Task activat
 
 Chen RH, **Ito T**, Kulkarni KR, Cole MW (2017). Large-scale multivariate activation states of the human brain. bioRxiv. [doi:10.1101/068221](https://www.biorxiv.org/content/early/2017/04/13/068221)
 
-Schultz DH, **Ito T**, Solomyak LI, Chen RH, Mill RD, Kulkarni KR, Cole MW (2017). Global connectivity of the frontoparietal cognitive control network is related to depression symptoms in undiagnosed individuals. bioRxiv. [doi:10.1101/185306](https://www.biorxiv.org/content/early/2018/01/25/185306)
-
-Kar K, **Ito T**, Wright J, Cole MW, Krekelberg B. (In preparation). Changes in BOLD adaptation and functional connectivity induced by transcranial alternating current stimulation.
-
 #### Peer-reviewed publications
+
+Schultz DH, **Ito T**, Solomyak LI, Chen RH, Mill RD, Kulkarni KR, Cole MW (In press). Global connectivity of the frontoparietal cognitive control network is related to depression symptoms in undiagnosed individuals. Network Neuroscience. [doi:10.1101/185306](https://www.biorxiv.org/content/early/2018/01/25/185306)
 
 **Ito T**, Kulkarni KR, Schultz DH, Mill RD, Chen RH, Solomyak LI, & Cole MW (2017). [Cognitive task information is transferred between brain regions via resting-state network topology](https://ito-takuya.github.io/files/publications/Ito%20et%20al.%20-%202017%20-%20Cognitive%20task%20information%20is%20transferred%20between%20brain%20regions%20via%20resting-state%20network%20topology.pdf). Nature Communications. doi:10.1038/s41467-017-01000-w. [Blog post](https://blog.colelab.org/2017/10/18/a-network-mechanism-for-the-transfer-of-cognitive-information-between-brain-regions/).
 
