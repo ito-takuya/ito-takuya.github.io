@@ -7,6 +7,7 @@ redirect_from:
 ---
 
 #### Preprints / Papers under review
+Cole MW, **Ito T**, Schultz DH, Mill RD, Chen RH, Cocuzza C (2018). Task activations produce spurious but systematic inflation of task functional connectivity estimates. bioRxiv. [https://doi.org/10.1101/292045](https://doi.org/10.1101/292045)
 
 **Ito T**, Cole MW (2018). Network dimensionality underlies flexible representation of cognitive information. bioRxiv. [https://doi.org/10.1101/262626 ](https://doi.org/10.1101/262626 )
 
