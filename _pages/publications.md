@@ -11,9 +11,9 @@ Cole MW, **Ito T**, Schultz DH, Mill RD, Chen RH, Cocuzza C (2018). Task activat
 
 **Ito T**, Cole MW (2018). Network dimensionality underlies flexible representation of cognitive information. bioRxiv. [https://doi.org/10.1101/262626 ](https://doi.org/10.1101/262626 )
 
-Chen RH, **Ito T**, Kulkarni KR, Cole MW (2017). Large-scale multivariate activation states of the human brain. bioRxiv. [doi:10.1101/068221](https://www.biorxiv.org/content/early/2017/04/13/068221)
-
 #### Peer-reviewed publications
+
+Chen RH, **Ito T**, Kulkarni KR, Cole MW. (2018). The human brain traverses a common activation-pattern state space across task and rest. Brain Connectivity. https://doi.org/10.1089/brain.2018.0586
 
 Schultz DH, **Ito T**, Solomyak LI, Chen RH, Mill RD, Kulkarni KR, Cole MW (In press). Global connectivity of the frontoparietal cognitive control network is related to depression symptoms in undiagnosed individuals. Network Neuroscience. [doi:10.1101/185306](https://www.biorxiv.org/content/early/2018/01/25/185306)
 
