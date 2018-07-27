@@ -5,7 +5,11 @@ author_profile: true
 redirect_from:
   - /abstracts
 ---
-**Ito T**, Cole MW (June 2018). Dimensionality of intrinsic network connectivity underlies flexible task representation. Poster to be presented at Organization for Human Brain Mapping, Singapore.
+**Ito T**, Keane BP, Mill RD, Chen RH, Hearne LJ, Arnemann KL, He BJ, Rotstein HG, Cole MW (September 2018). A dynamical systems model of intrinsic and evoked activity, variability, and functional connectivity. Poster presented at Conference on Cognitive Computational Neuroscience, Philadelphia PA.
+
+**Ito T**, Rotstein HG, Cole MW (July 2018). A dynamical systems model of intrinsic and evoked activity, variability, and functional connectivity. Poster presented at Neurobiology of Cognition Gordon Research Conference, Newry Maine.
+
+**Ito T**, Cole MW (June 2018). Dimensionality of intrinsic network connectivity underlies flexible task representation. Poster presented at Organization for Human Brain Mapping, Singapore.
 
 **Ito T**, Cole MW.  (November 2017). [Cognitive control networks contain a mixture of diverse connectivity patterns characteristic of predicted flexible hub mechanisms](../files/abstracts/ItoCole_SFN2017.pdf). Poster presented at Society for Neuroscience, Washington DC.
 
