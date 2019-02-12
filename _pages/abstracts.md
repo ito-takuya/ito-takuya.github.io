@@ -5,6 +5,8 @@ author_profile: true
 redirect_from:
   - /abstracts
 ---
+**Ito T** & Schultz KM (February 2019). Computation across scales: From receptive fields to cognitive maps. Poster presented at Present and Future Frameworks of Theoretical Neuroscience, San Antonio TX.
+
 **Ito T**, Keane BP, Mill RD, Chen RH, Hearne LJ, Arnemann KL, He BJ, Rotstein HG, Cole MW (September 2018). A dynamical systems model of intrinsic and evoked activity, variability, and functional connectivity. Poster presented at Conference on Cognitive Computational Neuroscience, Philadelphia PA.
 
 **Ito T**, Rotstein HG, Cole MW (July 2018). [A dynamical systems model of intrinsic and evoked activity, variability, and functional connectivity](../files/abstracts/ItoRotsteinCole_Gordon2018/ItoRotsteinCole_Gordon2018.jpg). Poster presented at Neurobiology of Cognition Gordon Research Conference, Newry Maine.
