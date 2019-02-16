@@ -3,8 +3,11 @@ main:
   - title: "Publications"
     url: /publications/
 
+  - title: "Conference papers"
+    url: /conferencepapers/  
+    
   - title: "Conference abstracts"
-    url: /abstracts/    
+    url: /abstracts/       
         
   - title: "CV"
     url: /cv/
