@@ -9,7 +9,6 @@ redirect_from:
 **Ito T** & Schultz KM (February 2019). Computation across scales: From receptive fields to cognitive maps. Poster presented at Present and Future Frameworks of Theoretical Neuroscience, San Antonio TX.
 
 #### 2018
-**Ito T**, Keane BP, Mill RD, Chen RH, Hearne LJ, Arnemann KL, He BJ, Rotstein HG, Cole MW (September 2018). A dynamical systems model of intrinsic and evoked activity, variability, and functional connectivity. Poster presented at Conference on Cognitive Computational Neuroscience, Philadelphia PA.
 
 **Ito T**, Rotstein HG, Cole MW (July 2018). [A dynamical systems model of intrinsic and evoked activity, variability, and functional connectivity](../files/abstracts/ItoRotsteinCole_Gordon2018/ItoRotsteinCole_Gordon2018.jpg). Poster presented at Neurobiology of Cognition Gordon Research Conference, Newry Maine.
 
@@ -21,8 +20,6 @@ redirect_from:
 Rotstein HG, **Ito T**, Stark E. (November 2017). Inhibition-based theta spiking resonance in a hippocampal network. Poster presented at Society for Neuroscience, Washington DC.
 
 Schultz DH, **Ito T**, Solomyak LI, Chen RH, Mill RD, Kulkarni KR, Cole MW. (November 2017). Systematic flexibility of global functional connectivity patterns supports flexible cognitive control. Society for Neuroscience, Washington DC.
-
-Cole MW, **Ito T**. (September 2017). Computational network mechanisms of task-evoked functional connectivity. Cognitive Computational Neuroscience, New York NY.
 
 Cole MW, **Ito T**, Schultz DH, Mill RD. (March 2017). Activity flows over task-evoked networks shape cognitive task activations across task switches. Poster presented at Cognitive Neuroscience Society, San Francisco, CA.
 
