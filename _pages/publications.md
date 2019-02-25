@@ -6,7 +6,8 @@ redirect_from:
   - /publications
 ---
 
-#### Preprints 
+#### Preprints/Submitted
+**Ito T**, Brincat SL, Siegel M, Mill RD, He BJ, Miller EK, Rotstein HG, Cole MW (Submitted). Task-evoked activity quenches neural correlations and variability in large-scale brain systems.
 
 **Ito T**, Cole MW (2018). Network dimensionality underlies flexible representation of cognitive information. bioRxiv. [https://doi.org/10.1101/262626 ](https://doi.org/10.1101/262626)
 
