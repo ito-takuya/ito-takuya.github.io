@@ -7,9 +7,9 @@ redirect_from:
 ---
 
 #### Preprints/Submitted
-**Ito T**, Brincat SL, Siegel M, Mill RD, He BJ, Miller EK, Rotstein HG, Cole MW (Submitted). Task-evoked activity quenches neural correlations and variability in large-scale brain systems.
+**Ito T**, Brincat SL, Siegel M, Mill RD, He BJ, Miller EK, Rotstein HG, Cole MW (2019). Task-evoked activity quenches neural correlations and variability in large-scale brain systems. bioRxiv. [https://doi.org/10.1101/560730](https://doi.org/10.1101/560730)
 
-**Ito T**, Cole MW (2018). Network dimensionality underlies flexible representation of cognitive information. bioRxiv. [https://doi.org/10.1101/262626 ](https://doi.org/10.1101/262626)
+**Ito T**, Cole MW (2018). Network dimensionality underlies flexible representation of cognitive information. bioRxiv. [https://doi.org/10.1101/262626](https://doi.org/10.1101/262626)
 
 #### Peer-reviewed publications
 Cole MW, **Ito T**, Schultz DH, Mill RD, Chen RH, Cocuzza CV (2019). “Task activations produce spurious but systematic inflation of task functional connectivity estimates.” NeuroImage. [https://doi.org/10.1016/j.neuroimage.2018.12.054](https://doi.org/10.1016/j.neuroimage.2018.12.054).
