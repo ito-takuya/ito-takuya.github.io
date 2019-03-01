@@ -6,6 +6,9 @@ redirect_from:
   - /abstracts
 ---
 #### 2019
+**Ito T**, Yang GR, Cocuzza CV, Schultz DH, Cole MW (June 2019). Predicting motor behavior using neural encoding models during complex cognitive tasks. Poster to be presented at Organization for Human Brain Mapping, Rome, Italy.
+
+
 **Ito T** & Schultz KM (February 2019). Computation across scales: From receptive fields to cognitive maps. Poster presented at Present and Future Frameworks of Theoretical Neuroscience, San Antonio TX.
 
 #### 2018
