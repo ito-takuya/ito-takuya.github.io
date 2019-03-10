@@ -35,7 +35,7 @@ BA (2013) in Mathematics, Philosophy-Neuroscience-Psychology; Minor in Computer 
 
 
 
-## Papers
+## Publications
 ##### Preprints/Submitted
 **Ito T**, Brincat SL, Siegel M, Mill RD, He BJ, Miller EK, Rotstein HG, Cole MW (2019). Task-evoked activity quenches neural correlations and variability in large-scale brain systems. bioRxiv. [https://doi.org/10.1101/560730](https://doi.org/10.1101/560730)
 
