@@ -29,12 +29,11 @@ I also have interests in neural network modeling, graph theory, nonlinear dynami
 
 ## Education
 
-PhD (2015-present; in progress) Rutgers University
-Neuroscience
+Rutgers University  PhD (2015-present; in progress)  Neuroscience
 
-BA (2013) Washington University in St. Louis
-Majors: Mathematics, Philosophy-Neuroscience-Psychology
-Minor: Computer Science
+
+
+Washington University in St. Louis  BA (2013)  Majors: Mathematics, Philosophy-Neuroscience-Psychology  Minor: Computer Science
 
 
 
