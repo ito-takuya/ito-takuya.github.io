@@ -8,11 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-My name is Takuya (Taku) Ito, and I’m a PhD candidate working with [Dr. Michael Cole](http://colelab.org) at the Center for Molecular and Behavioral Neuroscience, Rutgers University.
+## About
+
+My name is Takuya (Taku) Ito, and I’m a PhD candidate working with [Prof. Michael Cole](http://colelab.org) at the Center for Molecular and Behavioral Neuroscience, Rutgers University.
 
 I received my undergraduate degree in 2013 from Washington University in St. Louis with majors in Mathematics and Philosophy-Neuroscience-Psychology and a minor in Computer Science.
 
-#### Research Interest
+I am originally from New York City.
+
+## Research Interest
 
 Broadly, my research is in cognitive, network, and computational neuroscience.
 
@@ -20,17 +24,18 @@ I study the role of large-scale brain network organization in distributed inform
 
 I also have interests in neural network modeling, graph theory, nonlinear dynamics, machine learning, and information theory.
 
-#### Education
+## Education
 
 PhD in Neuroscience (2015-present; in progress), Rutgers University
 BA in Mathematics, Philosophy-Neuroscience-Psychology; Minor in Computer Science (2013), Washington University in St. Louis
 
-#### Preprints/Submitted
+## Papers
+##### Preprints/Submitted
 **Ito T**, Brincat SL, Siegel M, Mill RD, He BJ, Miller EK, Rotstein HG, Cole MW (2019). Task-evoked activity quenches neural correlations and variability in large-scale brain systems. bioRxiv. [https://doi.org/10.1101/560730](https://doi.org/10.1101/560730)
 
 **Ito T**, Cole MW (2018). Network dimensionality underlies flexible representation of cognitive information. bioRxiv. [https://doi.org/10.1101/262626](https://doi.org/10.1101/262626)
 
-#### Peer-reviewed publications
+##### Peer-reviewed publications
 Cole MW, **Ito T**, Schultz DH, Mill RD, Chen RH, Cocuzza CV (2019). “Task activations produce spurious but systematic inflation of task functional connectivity estimates.” NeuroImage. [https://doi.org/10.1016/j.neuroimage.2018.12.054](https://doi.org/10.1016/j.neuroimage.2018.12.054).
 
 Chen RH, **Ito T**, Kulkarni KR, Cole MW. (2018). The human brain traverses a common activation-pattern state space across task and rest. Brain Connectivity. [https://doi.org/10.1089/brain.2018.0586](https://doi.org/10.1089/brain.2018.0586)
@@ -47,13 +52,13 @@ Cole MW, **Ito T**, & Braver TS (2015). [Lateral prefrontal cortex contributes t
 
 Cole MW, **Ito T**, & Braver TS (2015). [The behavioral relevance of task information in human prefrontal cortex](../files/publications/Cole, Ito, Braver - 2015 - The Behavioral Relevance of Task Information in Human Prefrontal Cortex.pdf). Cerebral Cortex (New York, N.Y. : 1991), bhv072–. http://doi.org/10.1093/cercor/bhv072
 
-#### Conference papers
+## Conference papers
 
 **Ito T**, Keane BP, Mill RD, Chen RH, Hearne LJ, Arnemann KL, He BJ, Rotstein HG, Cole MW (September 2018). A dynamical systems model of intrinsic and evoked activity, variability, and functional connectivity. Poster presented at Conference on Cognitive Computational Neuroscience, Philadelphia PA. [https://doi.org/10.32470/CCN.2018.1049-0](https://doi.org/10.32470/CCN.2018.1049-0)
 
 Cole MW, **Ito T** (September 2017). Computational network mechanisms of task-evoked functional connectivity. Conference on Cognitive Computational Neuroscience, New York NY. [https://ccneuro.org/2017/abstracts/abstract_3000163.pdf](https://ccneuro.org/2017/abstracts/abstract_3000163.pdf)
 
-#### Conference abstracts
+## Conference abstracts
 
 #### 2019
 **Ito T**, Yang GR, Cocuzza CV, Schultz DH, Cole MW (June 2019). Predicting motor behavior using neural encoding models during complex cognitive tasks. Poster to be presented at Organization for Human Brain Mapping, Rome, Italy.
