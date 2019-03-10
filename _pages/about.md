@@ -16,6 +16,8 @@ I received my undergraduate degree in 2013 from Washington University in St. Lou
 
 I am originally from New York City.
 
+
+
 ## Research Interest
 
 Broadly, my research is in cognitive, network, and computational neuroscience.
@@ -24,10 +26,14 @@ I study the role of large-scale brain network organization in distributed inform
 
 I also have interests in neural network modeling, graph theory, nonlinear dynamics, machine learning, and information theory.
 
+
+
 ## Education
 
 PhD in Neuroscience (2015-present; in progress), Rutgers University
 BA in Mathematics, Philosophy-Neuroscience-Psychology; Minor in Computer Science (2013), Washington University in St. Louis
+
+
 
 ## Papers
 ##### Preprints/Submitted
@@ -52,11 +58,15 @@ Cole MW, **Ito T**, & Braver TS (2015). [Lateral prefrontal cortex contributes t
 
 Cole MW, **Ito T**, & Braver TS (2015). [The behavioral relevance of task information in human prefrontal cortex](../files/publications/Cole, Ito, Braver - 2015 - The Behavioral Relevance of Task Information in Human Prefrontal Cortex.pdf). Cerebral Cortex (New York, N.Y. : 1991), bhv072–. http://doi.org/10.1093/cercor/bhv072
 
+
+
 ## Conference papers
 
 **Ito T**, Keane BP, Mill RD, Chen RH, Hearne LJ, Arnemann KL, He BJ, Rotstein HG, Cole MW (September 2018). A dynamical systems model of intrinsic and evoked activity, variability, and functional connectivity. Poster presented at Conference on Cognitive Computational Neuroscience, Philadelphia PA. [https://doi.org/10.32470/CCN.2018.1049-0](https://doi.org/10.32470/CCN.2018.1049-0)
 
 Cole MW, **Ito T** (September 2017). Computational network mechanisms of task-evoked functional connectivity. Conference on Cognitive Computational Neuroscience, New York NY. [https://ccneuro.org/2017/abstracts/abstract_3000163.pdf](https://ccneuro.org/2017/abstracts/abstract_3000163.pdf)
+
+
 
 ## Conference abstracts
 
