@@ -46,10 +46,12 @@ Minor: Computer Science
 ##### Preprints/Submitted
 **Ito T**, Brincat SL, Siegel M, Mill RD, He BJ, Miller EK, Rotstein HG, Cole MW (2019). Task-evoked activity quenches neural correlations and variability in large-scale brain systems. bioRxiv. [https://doi.org/10.1101/560730](https://doi.org/10.1101/560730)
 
+Kar K, **Ito T**, Cole MW, Krekelberg B (2019). Transcranial alternating current stimulation reduces BOLD adaptation and increases functional connectivity. bioRxiv. [https://doi.org/10.1101/630368](https://doi.org/10.1101/630368)
+
 **Ito T**, Cole MW (2018). Network dimensionality underlies flexible representation of cognitive information. bioRxiv. [https://doi.org/10.1101/262626](https://doi.org/10.1101/262626)
 
 ##### Peer-reviewed publications
-Cole MW, **Ito T**, Schultz DH, Mill RD, Chen RH, Cocuzza CV (2019). “Task activations produce spurious but systematic inflation of task functional connectivity estimates.” NeuroImage. [https://doi.org/10.1016/j.neuroimage.2018.12.054](https://doi.org/10.1016/j.neuroimage.2018.12.054).
+Cole MW, **Ito T**, Schultz DH, Mill RD, Chen RH, Cocuzza CV (2019). “Task activations produce spurious but systematic inflation of task functional connectivity estimates.” NeuroImage. [https://doi.org/10.1016/j.neuroimage.2018.12.054](https://doi.org/10.1016/j.neuroimage.2018.12.054)
 
 Chen RH, **Ito T**, Kulkarni KR, Cole MW. (2018). The human brain traverses a common activation-pattern state space across task and rest. Brain Connectivity. [https://doi.org/10.1089/brain.2018.0586](https://doi.org/10.1089/brain.2018.0586)
 
