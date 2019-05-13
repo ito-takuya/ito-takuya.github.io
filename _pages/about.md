@@ -43,7 +43,7 @@ Minor: Computer Science
 
 
 ## Publications
-##### Preprints/Submitted
+##### Preprint papers
 **Ito T**, Brincat SL, Siegel M, Mill RD, He BJ, Miller EK, Rotstein HG, Cole MW (2019). Task-evoked activity quenches neural correlations and variability in large-scale brain systems. bioRxiv. [https://doi.org/10.1101/560730](https://doi.org/10.1101/560730)
 
 Kar K, **Ito T**, Cole MW, Krekelberg B (2019). Transcranial alternating current stimulation reduces BOLD adaptation and increases functional connectivity. bioRxiv. [https://doi.org/10.1101/630368](https://doi.org/10.1101/630368)
