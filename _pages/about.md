@@ -80,7 +80,7 @@ Cole MW, **Ito T** (September 2017). Computational network mechanisms of task-ev
 ## Conference abstracts
 
 #### 2019
-**Ito T**, Yang GR, Cocuzza CV, Schultz DH, Cole MW (June 2019). [Predicting motor behavior using neural encoding models during complex cognitive tasks] (../files/abstracts/2019OHBM_ItoEtAl/2019_OHBMPoster_v2.jpg). Poster to be presented at Organization for Human Brain Mapping, Rome, Italy.
+**Ito T**, Yang GR, Cocuzza CV, Schultz DH, Cole MW (June 2019). [Predicting motor behavior using neural encoding models during complex cognitive tasks](../files/abstracts/2019OHBM_ItoEtAl/2019_OHBMPoster_v2.jpg). Poster to be presented at Organization for Human Brain Mapping, Rome, Italy.
 
 
 **Ito T** & Schultz KM (February 2019). Computation across scales: From receptive fields to cognitive maps. Poster presented at Present and Future Frameworks of Theoretical Neuroscience, San Antonio TX.
