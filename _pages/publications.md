@@ -6,16 +6,17 @@ redirect_from:
   - /publications
 ---
 
-#### Preprints / Papers under review
-Cole MW, **Ito T**, Schultz DH, Mill RD, Chen RH, Cocuzza C (2018). Task activations produce spurious but systematic inflation of task functional connectivity estimates. bioRxiv. [https://doi.org/10.1101/292045](https://doi.org/10.1101/292045)
+#### Preprints/Submitted
+**Ito T**, Brincat SL, Siegel M, Mill RD, He BJ, Miller EK, Rotstein HG, Cole MW (2019). Task-evoked activity quenches neural correlations and variability in large-scale brain systems. bioRxiv. [https://doi.org/10.1101/560730](https://doi.org/10.1101/560730)
 
-**Ito T**, Cole MW (2018). Network dimensionality underlies flexible representation of cognitive information. bioRxiv. [https://doi.org/10.1101/262626 ](https://doi.org/10.1101/262626 )
+**Ito T**, Cole MW (2018). Network dimensionality underlies flexible representation of cognitive information. bioRxiv. [https://doi.org/10.1101/262626](https://doi.org/10.1101/262626)
 
 #### Peer-reviewed publications
+Cole MW, **Ito T**, Schultz DH, Mill RD, Chen RH, Cocuzza CV (2019). “Task activations produce spurious but systematic inflation of task functional connectivity estimates.” NeuroImage. [https://doi.org/10.1016/j.neuroimage.2018.12.054](https://doi.org/10.1016/j.neuroimage.2018.12.054).
 
-Chen RH, **Ito T**, Kulkarni KR, Cole MW. (2018). The human brain traverses a common activation-pattern state space across task and rest. Brain Connectivity. https://doi.org/10.1089/brain.2018.0586
+Chen RH, **Ito T**, Kulkarni KR, Cole MW. (2018). The human brain traverses a common activation-pattern state space across task and rest. Brain Connectivity. [https://doi.org/10.1089/brain.2018.0586](https://doi.org/10.1089/brain.2018.0586)
 
-Schultz DH, **Ito T**, Solomyak LI, Chen RH, Mill RD, Kulkarni KR, Cole MW (In press). Global connectivity of the frontoparietal cognitive control network is related to depression symptoms in undiagnosed individuals. Network Neuroscience. [doi:10.1101/185306](https://www.biorxiv.org/content/early/2018/01/25/185306)
+Schultz DH, **Ito T**, Solomyak LI, Chen RH, Mill RD, Kulkarni KR, Cole MW (2018). Global connectivity of the frontoparietal cognitive control network is related to depression symptoms in undiagnosed individuals. Network Neuroscience. [doi:10.1101/185306](https://www.biorxiv.org/content/early/2018/01/25/185306)
 
 **Ito T**, Kulkarni KR, Schultz DH, Mill RD, Chen RH, Solomyak LI, & Cole MW (2017). [Cognitive task information is transferred between brain regions via resting-state network topology](https://ito-takuya.github.io/files/publications/Ito%20et%20al.%20-%202017%20-%20Cognitive%20task%20information%20is%20transferred%20between%20brain%20regions%20via%20resting-state%20network%20topology.pdf). Nature Communications. doi:10.1038/s41467-017-01000-w. [Blog post](https://blog.colelab.org/2017/10/18/a-network-mechanism-for-the-transfer-of-cognitive-information-between-brain-regions/).
 
