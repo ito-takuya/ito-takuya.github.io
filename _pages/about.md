@@ -38,6 +38,8 @@ Minor: Computer Science
 
 ## Publications
 ##### Preprint papers
+**Ito T**, Hearne LJ, Mill RD, Cocuzza CV, Cole MW (2019). Brain network organization as the computational architecture of cognition (Opinion). arXiv. [https://arxiv.org/abs/1907.03612](https://arxiv.org/abs/1907.03612)
+
 **Ito T**, Brincat SL, Siegel M, Mill RD, He BJ, Miller EK, Rotstein HG, Cole MW (2019). Task-evoked activity quenches neural correlations and variability in large-scale brain systems. bioRxiv. [https://doi.org/10.1101/560730](https://doi.org/10.1101/560730)
 
 Kar K, **Ito T**, Cole MW, Krekelberg B (2019). Transcranial alternating current stimulation reduces BOLD adaptation and increases functional connectivity. bioRxiv. [https://doi.org/10.1101/630368](https://doi.org/10.1101/630368)
