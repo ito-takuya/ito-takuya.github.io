@@ -38,6 +38,8 @@ Minor: Computer Science
 
 ## Publications
 ##### Preprint papers
+**Cocuzza CV**, Ito T, Schultz DH, Bassett DS, Cole MW (2019). Flexible coordinator and switcher hubs for adaptive task control. bioRxiv. [https://doi.org/10.1101/822213](https://doi.org/10.1101/822213)
+
 **Ito T**, Hearne LJ, Mill RD, Cocuzza CV, Cole MW (2019). Discovering the computational relevance of brain network organization (Opinion). arXiv. [https://arxiv.org/abs/1907.03612](https://arxiv.org/abs/1907.03612)
 
 **Ito T**, Brincat SL, Siegel M, Mill RD, He BJ, Miller EK, Rotstein HG, Cole MW (2019). Task-evoked activity quenches neural correlations and variability in large-scale brain systems. bioRxiv. [https://doi.org/10.1101/560730](https://doi.org/10.1101/560730)
