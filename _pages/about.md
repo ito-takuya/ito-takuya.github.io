@@ -11,7 +11,7 @@ redirect_from:
 
 My name is Takuya (Taku) Ito, and I’m a PhD student working with [Michael Cole](http://colelab.org) at the Center for Molecular and Behavioral Neuroscience, Rutgers University. 
 
-My mother is from Hong Kong and my father is from Japan. I am from New York City.
+My mother is from Hong Kong and my father is from Sapporo, Japan. I am from New York City.
 
 
 
