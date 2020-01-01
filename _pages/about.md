@@ -17,7 +17,7 @@ My mother is from Hong Kong and my father is from Sapporo, Japan. I am from New 
 
 ## Research Interest
 
-I study the role of large-scale brain network organization in distributed information processing. In particular, I am interested in the computational and network mechanisms of how information (multivariate representations) is transferred and transformed between brain areas, and how these processes relate to flexible behaviors. To address these questions, I use a combination of statistical analysis of neural data sets and mathematical/computational modeling. I have used fMRI and non-human primate electrophysiology, and have interests in other data modalities.
+I study the role of large-scale brain network organization in distributed information processing. In particular, I am interested in the computational principles of how information is transferred and transformed between brain areas, and how these processes relate to flexible behaviors. To address these questions, I use a combination of statistical analysis of neural data sets and mathematical/computational modeling. I have used fMRI and non-human primate electrophysiology, and have interests in other data modalities.
 
 I also have interests in neural network modeling, graph theory, nonlinear dynamics, machine learning, and information theory.
 
