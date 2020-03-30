@@ -47,15 +47,15 @@ Cocuzza CV, **Ito T**, Schultz DH, Bassett DS, Cole MW (2019). Flexible coordina
 **Ito T**, Cole MW (2018). Network dimensionality underlies flexible representation of cognitive information. bioRxiv. [https://doi.org/10.1101/262626](https://doi.org/10.1101/262626)
 
 #### Peer-reviewed publications
-Kar K, **Ito T**, Cole MW, Krekelberg B (2019). Transcranial alternating current stimulation reduces BOLD adaptation and increases functional connectivity. Journal of Neurophysiology. [https://doi.org/10.1152/jn.00376.2019](https://doi.org/10.1152/jn.00376.2019)
+Kar K, **Ito T**, Cole MW, Krekelberg B (2019). [Transcranial alternating current stimulation reduces BOLD adaptation and increases functional connectivity](../files/publications/Kar et al. - 2019 - Transcranial alternating current stimulation atten). Journal of Neurophysiology. [https://doi.org/10.1152/jn.00376.2019](https://doi.org/10.1152/jn.00376.2019)
 
-**Ito T**, Hearne LJ, Mill RD, Cocuzza CV, Cole MW (2019). Discovering the Computational Relevance of Brain Network Organization. Trends in Cognitive Sciences. [https://doi.org/10.1016/j.tics.2019.10.005](https://doi.org/10.1016/j.tics.2019.10.005)
+**Ito T**, Hearne LJ, Mill RD, Cocuzza CV, Cole MW (2019). [Discovering the Computational Relevance of Brain Network Organization. Trends in Cognitive Sciences](../files/publications/Ito et al_2019_Discovering the Computational Relevance of Brain Network Organization). [https://doi.org/10.1016/j.tics.2019.10.005](https://doi.org/10.1016/j.tics.2019.10.005)
 
-Cole MW, **Ito T**, Schultz DH, Mill RD, Chen RH, Cocuzza CV (2019). “Task activations produce spurious but systematic inflation of task functional connectivity estimates.” NeuroImage. [https://doi.org/10.1016/j.neuroimage.2018.12.054](https://doi.org/10.1016/j.neuroimage.2018.12.054)
+Cole MW, **Ito T**, Schultz DH, Mill RD, Chen RH, Cocuzza CV (2019). [Task activations produce spurious but systematic inflation of task functional connectivity estimates](../files/publications/Cole et al. - 2019 - Task activations produce spurious but systematic i.pdf). NeuroImage. [https://doi.org/10.1016/j.neuroimage.2018.12.054](https://doi.org/10.1016/j.neuroimage.2018.12.054)
 
-Schultz DH, **Ito T**, Solomyak LI, Chen RH, Mill RD, Kulkarni KR, Cole MW (2019). Global connectivity of the frontoparietal cognitive control network is related to depression symptoms in undiagnosed individuals. Network Neuroscience. [doi:10.1101/185306](https://www.biorxiv.org/content/early/2018/01/25/185306)
+Schultz DH, **Ito T**, Solomyak LI, Chen RH, Mill RD, Kulkarni KR, Cole MW (2019). [Global connectivity of the frontoparietal cognitive control network is related to depression symptoms in undiagnosed individuals](../files/publications/Schultz et al. - 2019 - Global connectivity of the fronto-parietal cogniti.pdf). Network Neuroscience. [doi:10.1101/185306](https://www.biorxiv.org/content/early/2018/01/25/185306)
 
-Chen RH, **Ito T**, Kulkarni KR, Cole MW. (2018). The human brain traverses a common activation-pattern state space across task and rest. Brain Connectivity. [https://doi.org/10.1089/brain.2018.0586](https://doi.org/10.1089/brain.2018.0586)
+Chen RH, **Ito T**, Kulkarni KR, Cole MW. (2018). [The human brain traverses a common activation-pattern state space across task and rest](../files/publications/Chen et al. - 2018 - The Human Brain Traverses a Common Activation-Patt.pdf). Brain Connectivity. [https://doi.org/10.1089/brain.2018.0586](https://doi.org/10.1089/brain.2018.0586)
 
 **Ito T**, Kulkarni KR, Schultz DH, Mill RD, Chen RH, Solomyak LI, & Cole MW (2017). [Cognitive task information is transferred between brain regions via resting-state network topology](https://ito-takuya.github.io/files/publications/Ito%20et%20al.%20-%202017%20-%20Cognitive%20task%20information%20is%20transferred%20between%20brain%20regions%20via%20resting-state%20network%20topology.pdf). Nature Communications. doi:10.1038/s41467-017-01000-w. [Blog post](https://blog.colelab.org/2017/10/18/a-network-mechanism-for-the-transfer-of-cognitive-information-between-brain-regions/).
 
