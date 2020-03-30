@@ -49,7 +49,7 @@ Cocuzza CV, **Ito T**, Schultz DH, Bassett DS, Cole MW (2019). Flexible coordina
 #### Peer-reviewed publications
 Kar K, **Ito T**, Cole MW, Krekelberg B (2019). [Transcranial alternating current stimulation reduces BOLD adaptation and increases functional connectivity](../files/publications/Kar et al. - 2019 - Transcranial alternating current stimulation atten). Journal of Neurophysiology. [https://doi.org/10.1152/jn.00376.2019](https://doi.org/10.1152/jn.00376.2019)
 
-**Ito T**, Hearne LJ, Mill RD, Cocuzza CV, Cole MW (2019). [Discovering the Computational Relevance of Brain Network Organization]((../files/publications/Ito et al_2019_Discovering the Computational Relevance of Brain Network Organization). Trends in Cognitive Sciences. [https://doi.org/10.1016/j.tics.2019.10.005](https://doi.org/10.1016/j.tics.2019.10.005)
+**Ito T**, Hearne LJ, Mill RD, Cocuzza CV, Cole MW (2019). [Discovering the Computational Relevance of Brain Network Organization](../files/publications/Ito et al_2019_Discovering the Computational Relevance of Brain Network Organization). Trends in Cognitive Sciences. [https://doi.org/10.1016/j.tics.2019.10.005](https://doi.org/10.1016/j.tics.2019.10.005)
 
 Cole MW, **Ito T**, Schultz DH, Mill RD, Chen RH, Cocuzza CV (2019). [Task activations produce spurious but systematic inflation of task functional connectivity estimates](../files/publications/Cole et al. - 2019 - Task activations produce spurious but systematic i.pdf). NeuroImage. [https://doi.org/10.1016/j.neuroimage.2018.12.054](https://doi.org/10.1016/j.neuroimage.2018.12.054)
 
