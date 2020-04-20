@@ -13,7 +13,7 @@ My name is Takuya (Taku) Ito, and I’m a PhD student working with [Michael Cole
 
 My mother is from Hong Kong and my father is from Sapporo, Japan. I am from New York City.
 
-
+[My CV](../files/cv/TakuyaItoCV.pdf)
 
 ## Research Interest
 
