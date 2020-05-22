@@ -40,11 +40,11 @@ Minor: Computer Science
 
 ## Publications
 #### Preprint papers
+**Ito T**, Hearne LJ, Cole MW (2020). A cortical hierarchy of localized and distributed processes revealed via dissociation of task activations, connectivity changes, and intrinsic timescales. bioRxiv. [https://doi.org/10.1101/262626](https://doi.org/10.1101/262626)
+
 Cocuzza CV, **Ito T**, Schultz DH, Bassett DS, Cole MW (2019). Flexible coordinator and switcher hubs for adaptive task control. bioRxiv. [https://doi.org/10.1101/822213](https://doi.org/10.1101/822213)
 
 **Ito T**, Brincat SL, Siegel M, Mill RD, He BJ, Miller EK, Rotstein HG, Cole MW (2019). Task-evoked activity quenches neural correlations and variability across cortical areas. bioRxiv. [https://doi.org/10.1101/560730](https://doi.org/10.1101/560730)
-
-**Ito T**, Cole MW (2018). Network dimensionality underlies flexible representation of cognitive information. bioRxiv. [https://doi.org/10.1101/262626](https://doi.org/10.1101/262626)
 
 #### Peer-reviewed publications
 Kar K, **Ito T**, Cole MW, Krekelberg B (2019). [Transcranial alternating current stimulation reduces BOLD adaptation and increases functional connectivity](../files/publications/Kar et al. - 2019 - Transcranial alternating current stimulation atten.pdf). Journal of Neurophysiology. [https://doi.org/10.1152/jn.00376.2019](https://doi.org/10.1152/jn.00376.2019)
