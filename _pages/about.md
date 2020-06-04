@@ -44,9 +44,9 @@ Minor: Computer Science
 
 Cocuzza CV, **Ito T**, Schultz DH, Bassett DS, Cole MW (2019). Flexible coordinator and switcher hubs for adaptive task control. bioRxiv. [https://doi.org/10.1101/822213](https://doi.org/10.1101/822213)
 
-**Ito T**, Brincat SL, Siegel M, Mill RD, He BJ, Miller EK, Rotstein HG, Cole MW (2019). Task-evoked activity quenches neural correlations and variability across cortical areas. bioRxiv. [https://doi.org/10.1101/560730](https://doi.org/10.1101/560730)
-
 #### Peer-reviewed publications
+**Ito T**, Brincat SL, Siegel M, Mill RD, He BJ, Miller EK, Rotstein HG, Cole MW (In Press). Task-evoked activity quenches neural correlations and variability across cortical areas. PLoS Computational Biology. [https://doi.org/10.1101/560730](https://doi.org/10.1101/560730)
+
 Kar K, **Ito T**, Cole MW, Krekelberg B (2019). [Transcranial alternating current stimulation reduces BOLD adaptation and increases functional connectivity](../files/publications/Kar et al. - 2019 - Transcranial alternating current stimulation atten.pdf). Journal of Neurophysiology. [https://doi.org/10.1152/jn.00376.2019](https://doi.org/10.1152/jn.00376.2019)
 
 **Ito T**, Hearne LJ, Mill RD, Cocuzza CV, Cole MW (2019). [Discovering the Computational Relevance of Brain Network Organization](../files/publications/Ito et al_2019_Discovering the Computational Relevance of Brain Network Organization.pdf). Trends in Cognitive Sciences. [https://doi.org/10.1016/j.tics.2019.10.005](https://doi.org/10.1016/j.tics.2019.10.005)
