@@ -79,6 +79,9 @@ Cole MW, **Ito T** (September 2017). Computational network mechanisms of task-ev
 
 ## Conference abstracts
 
+#### 2020
+**Ito T**, Hearne LJ, Cole MW (June 2020). [Cognitive information differentiates between connectivity and activity across the cortical hierarchy](../files/abstracts/2020OHBM_ItoEtAl/ItoHearneCole_OHBM2020.jpg). Poster and talk presented at Organization for Human Brain Mapping (Virtual).
+
 #### 2019
 **Ito T**, Yang GR, Cocuzza CV, Schultz DH, Cole MW (June 2019). [Predicting motor behavior using neural encoding models during complex cognitive tasks](../files/abstracts/2019OHBM_ItoEtAl/2019_OHBMPoster_v2.jpg). Poster to be presented at Organization for Human Brain Mapping, Rome, Italy.
 
