@@ -42,7 +42,7 @@ Minor: Computer Science
 
 #### Peer-reviewed publications
 #### 2020
-**Ito T**, Hearne LJ, Cole MW (In press). A cortical hierarchy of localized and distributed processes revealed via dissociation of task activations, connectivity changes, and intrinsic timescales. NeuroImage. [https://doi.org/10.1016/j.neuroimage.2020.117141](https://doi.org/10.1016/j.neuroimage.2020.117141)
+**Ito T**, Hearne LJ, Cole MW (In press). [A cortical hierarchy of localized and distributed processes revealed via dissociation of task activations, connectivity changes, and intrinsic timescales](../files/publications/Ito et al_2020_A cortical hierarchy of localized and distributed processes revealed via.pdf). NeuroImage. [https://doi.org/10.1016/j.neuroimage.2020.117141](https://doi.org/10.1016/j.neuroimage.2020.117141)
 
 Cocuzza CV, **Ito T**, Schultz DH, Bassett DS, Cole MW (In press). Flexible coordinator and switcher hubs for adaptive task control. Journal of Neuroscience. [https://doi.org/10.1101/822213](https://doi.org/10.1101/822213)
 
