@@ -42,11 +42,11 @@ Minor: Computer Science
 
 #### Peer-reviewed publications
 #### 2020
-**Ito T**, Hearne LJ, Cole MW (In press). [A cortical hierarchy of localized and distributed processes revealed via dissociation of task activations, connectivity changes, and intrinsic timescales](../files/publications/Ito et al_2020_A cortical hierarchy of localized and distributed processes revealed via.pdf). NeuroImage. [https://doi.org/10.1016/j.neuroimage.2020.117141](https://doi.org/10.1016/j.neuroimage.2020.117141)
+**Ito T**, Hearne LJ, Cole MW (2020). [A cortical hierarchy of localized and distributed processes revealed via dissociation of task activations, connectivity changes, and intrinsic timescales](../files/publications/Ito et al_2020_A cortical hierarchy of localized and distributed processes revealed via.pdf). NeuroImage. [https://doi.org/10.1016/j.neuroimage.2020.117141](https://doi.org/10.1016/j.neuroimage.2020.117141)
 
-Cocuzza CV, **Ito T**, Schultz DH, Bassett DS, Cole MW (In press). Flexible coordinator and switcher hubs for adaptive task control. Journal of Neuroscience. [https://doi.org/10.1101/822213](https://doi.org/10.1101/822213)
+Cocuzza CV, **Ito T**, Schultz DH, Bassett DS, Cole MW (2020). Flexible coordinator and switcher hubs for adaptive task control. Journal of Neuroscience. [https://doi.org/10.1523/JNEUROSCI.2559-19.2020](https://doi.org/10.1523/JNEUROSCI.2559-19.2020)
 
-**Ito T**, Brincat SL, Siegel M, Mill RD, He BJ, Miller EK, Rotstein HG, Cole MW (In Press). Task-evoked activity quenches neural correlations and variability across cortical areas. PLoS Computational Biology. [https://doi.org/10.1101/560730](https://doi.org/10.1101/560730)
+**Ito T**, Brincat SL, Siegel M, Mill RD, He BJ, Miller EK, Rotstein HG, Cole MW (2020). Task-evoked activity quenches neural correlations and variability across cortical areas. PLoS Computational Biology. [https://doi.org/10.1371/journal.pcbi.1007983](https://doi.org/10.1371/journal.pcbi.1007983)
 
 Kar K, **Ito T**, Cole MW, Krekelberg B (2020). [Transcranial alternating current stimulation reduces BOLD adaptation and increases functional connectivity](../files/publications/Kar et al. - 2019 - Transcranial alternating current stimulation atten.pdf). Journal of Neurophysiology. [https://doi.org/10.1152/jn.00376.2019](https://doi.org/10.1152/jn.00376.2019)
 #### 2019
