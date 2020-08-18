@@ -38,8 +38,8 @@ Minor: Computer Science
 
 
 ## Publications
-#### Pre-print papers
-Cole MW, **Ito T**, Cocuzza CV, Sanchez-Romero R (Preprint). "The functional relevance of task-state functional connectivity". bioRxiv. [https://www.biorxiv.org/content/10.1101/2020.07.06.187245v1](https://www.biorxiv.org/content/10.1101/2020.07.06.187245v1)
+#### Preprint papers
+Cole MW, **Ito T**, Cocuzza CV, Sanchez-Romero R (2020). "The functional relevance of task-state functional connectivity". bioRxiv. [https://www.biorxiv.org/content/10.1101/2020.07.06.187245v1](https://www.biorxiv.org/content/10.1101/2020.07.06.187245v1)
 
 #### Peer-reviewed publications
 #### 2020
