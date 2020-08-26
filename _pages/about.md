@@ -7,14 +7,14 @@ redirect_from:
   - /about/
   - /about.html
 ---
-## About
+#### About
 My name is Takuya (Taku) Ito, and I’m a PhD student working with [Michael Cole](http://colelab.org) at the Center for Molecular and Behavioral Neuroscience, Rutgers University. 
 
 My mother is from Hong Kong and my father is from Sapporo, Japan. I am from New York City.
 
 [My CV](../files/cv/TakuyaItoCV.pdf)
 
-## Research Interest
+##### Research Interest
 
 I study the role of large-scale brain network organization in distributed information processing. In particular, I am interested in the computational principles of how information is transferred and transformed between brain areas, and how these processes relate to flexible behaviors. To address these questions, I use a combination of statistical analysis of neural data sets and mathematical/computational modeling. I have used fMRI and non-human primate electrophysiology, and have interests in other data modalities.
 
