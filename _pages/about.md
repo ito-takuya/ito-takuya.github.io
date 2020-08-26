@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: ""
-excerpt: "About me" 
+title: "About"
+excerpt: "About" 
 author_profile: true
 redirect_from: 
   - /about/
@@ -13,7 +13,7 @@ My mother is from Hong Kong and my father is from Sapporo, Japan. I am from New 
 
 [My CV](../files/cv/TakuyaItoCV.pdf)
 
-## Research Interest
+### Research Interest
 
 I study the role of large-scale brain network organization in distributed information processing. In particular, I am interested in the computational principles of how information is transferred and transformed between brain areas, and how these processes relate to flexible behaviors. To address these questions, I use a combination of statistical analysis of neural data sets and mathematical/computational modeling. I have used fMRI and non-human primate electrophysiology, and have interests in other data modalities.
 
@@ -21,7 +21,7 @@ I also have interests in neural network modeling, graph theory, nonlinear dynami
 
 
 
-## Education
+### Education
 
 Rutgers University<br/>
 PhD (2015-present)<br/>
@@ -36,7 +36,7 @@ Minor: Computer Science
 
 
 
-## Publications
+### Publications
 #### Preprint papers
 Cole MW, **Ito T**, Cocuzza CV, Sanchez-Romero R (2020). "The functional relevance of task-state functional connectivity". bioRxiv. [https://www.biorxiv.org/content/10.1101/2020.07.06.187245v1](https://www.biorxiv.org/content/10.1101/2020.07.06.187245v1)
 
@@ -72,7 +72,7 @@ Cole MW, **Ito T**, & Braver TS (2015). [The behavioral relevance of task inform
 
 
 
-## Conference papers
+### Conference papers
 
 **Ito T**, Keane BP, Mill RD, Chen RH, Hearne LJ, Arnemann KL, He BJ, Rotstein HG, Cole MW (September 2018). A dynamical systems model of intrinsic and evoked activity, variability, and functional connectivity. Conference on Cognitive Computational Neuroscience, Philadelphia PA. [https://doi.org/10.32470/CCN.2018.1049-0](https://doi.org/10.32470/CCN.2018.1049-0)
 
@@ -80,7 +80,7 @@ Cole MW, **Ito T** (September 2017). Computational network mechanisms of task-ev
 
 
 
-## Conference abstracts
+### Conference abstracts
 
 #### 2020
 **Ito T**, Hearne LJ, Cole MW (June 2020). [Cognitive information differentiates between connectivity and activity across the cortical hierarchy](../files/abstracts/2020OHBM_ItoEtAl/ItoHearneCole_OHBM2020.pdf). Poster and talk presented at Organization for Human Brain Mapping (Virtual).
