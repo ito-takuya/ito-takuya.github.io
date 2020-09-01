@@ -11,7 +11,7 @@ I am a PhD student working with [Michael Cole](http://colelab.org) at the Center
 
 My mother is from Hong Kong and my father is from Sapporo, Japan. I am from New York City.
 
-[My CV](../files/cv/TakuyaItoCV.pdf)
+[My CV](https://drive.google.com/file/d/1cLgXEmyrlHZD2wCkNwL7Ih574o6ubtcQ/view?usp=sharing)
 
 ### Research Interest
 
