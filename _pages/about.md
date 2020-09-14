@@ -42,7 +42,7 @@ Cole MW, **Ito T**, Cocuzza CV, Sanchez-Romero R (2020). "The functional relevan
 
 #### Peer-reviewed publications
 #### 2020
-Spronk M, Keane BP, **Ito T**, Kulkarni K, Ji JL, Anticevic A, Cole MW (2020). "A whole-brain and cross-diagnostic perspective on functional brain network dysfunction". Cerebral Cortex. [https://doi.org/10.1093/cercor/bhaa242](https://doi.org/10.1093/cercor/bhaa242)
+Spronk M, Keane BP, **Ito T**, Kulkarni K, Ji JL, Anticevic A, Cole MW (2020). A whole-brain and cross-diagnostic perspective on functional brain network dysfunction. Cerebral Cortex. [https://doi.org/10.1093/cercor/bhaa242](https://doi.org/10.1093/cercor/bhaa242)
 
 **Ito T**, Hearne LJ, Cole MW (2020). [A cortical hierarchy of localized and distributed processes revealed via dissociation of task activations, connectivity changes, and intrinsic timescales](../files/publications/Ito et al_2020_A cortical hierarchy of localized and distributed processes revealed via.pdf). NeuroImage. [https://doi.org/10.1016/j.neuroimage.2020.117141](https://doi.org/10.1016/j.neuroimage.2020.117141)
 
