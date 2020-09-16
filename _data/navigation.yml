@@ -1,13 +1,13 @@
 # main links links
 main:
-#   - title: "Publications"
-#     url: /publications/
+  - title: "Publications"
+    url: /publications/
 
-#   - title: "Conference papers"
-#     url: /conferencepapers/  
+  - title: "Conference papers"
+    url: /conferencepapers/  
     
-#   - title: "Conference abstracts"
-#     url: /abstracts/       
+  - title: "Conference abstracts"
+    url: /abstracts/       
         
 #   - title: "CV"
 #     url: /cv/
