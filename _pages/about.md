@@ -31,7 +31,7 @@ Dissertation: _Cognitive Information Transformation in Functional Brain Networks
 
 
 Washington University in St. Louis<br/>
-BA (2013)<br/>
+BA (2009-2013)<br/>
 Majors: Mathematics, Philosophy-Neuroscience-Psychology<br/>
 Minor: Computer Science
 
