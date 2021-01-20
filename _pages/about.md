@@ -47,7 +47,7 @@ Cole MW, **Ito T**, Cocuzza CV, Sanchez-Romero R (2020). The functional relevanc
 #### Peer-reviewed publications
 #### 2021
 
-Spronk M, Keane BP, **Ito T**, Kulkarni K, Ji JL, Anticevic A, Cole MW (2020). A whole-brain and cross-diagnostic perspective on functional brain network dysfunction. Cerebral Cortex. [https://doi.org/10.1093/cercor/bhaa242](https://doi.org/10.1093/cercor/bhaa242)
+Spronk M, Keane BP, **Ito T**, Kulkarni K, Ji JL, Anticevic A, Cole MW (2021). A whole-brain and cross-diagnostic perspective on functional brain network dysfunction. Cerebral Cortex. [https://doi.org/10.1093/cercor/bhaa242](https://doi.org/10.1093/cercor/bhaa242)
 
 #### 2020
 
