@@ -45,8 +45,11 @@ brain data reveals representational transformations underlying adaptive behavior
 Cole MW, **Ito T**, Cocuzza CV, Sanchez-Romero R (2020). The functional relevance of task-state functional connectivity. bioRxiv. [https://www.biorxiv.org/content/10.1101/2020.07.06.187245v1](https://www.biorxiv.org/content/10.1101/2020.07.06.187245v1)
 
 #### Peer-reviewed publications
-#### 2020
+#### 2021
+
 Spronk M, Keane BP, **Ito T**, Kulkarni K, Ji JL, Anticevic A, Cole MW (2020). A whole-brain and cross-diagnostic perspective on functional brain network dysfunction. Cerebral Cortex. [https://doi.org/10.1093/cercor/bhaa242](https://doi.org/10.1093/cercor/bhaa242)
+
+#### 2020
 
 **Ito T**, Hearne LJ, Cole MW (2020). [A cortical hierarchy of localized and distributed processes revealed via dissociation of task activations, connectivity changes, and intrinsic timescales](../files/publications/Ito et al_2020_A cortical hierarchy of localized and distributed processes revealed via.pdf). NeuroImage. [https://doi.org/10.1016/j.neuroimage.2020.117141](https://doi.org/10.1016/j.neuroimage.2020.117141)
 
@@ -85,6 +88,8 @@ Cole MW, **Ito T** (September 2017). Computational network mechanisms of task-ev
 
 
 ### Conference abstracts
+#### 2021
+**Ito T**, Klinger T, Schultz DH, Cole MW, Rigotti M (February 2021). The role of compositional abstraction in human and artificial neural networks. Poster at Computational and Systems Neuroscience (Cosyne).
 
 #### 2020
 **Ito T**, Hearne LJ, Cole MW (June 2020). [Cognitive information differentiates between connectivity and activity across the cortical hierarchy](../files/abstracts/2020OHBM_ItoEtAl/ItoHearneCole_OHBM2020.pdf). Poster and talk presented at Organization for Human Brain Mapping (Virtual).
