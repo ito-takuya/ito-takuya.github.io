@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a PhD student working with [Michael Cole](http://colelab.org) at the Center for Molecular and Behavioral Neuroscience, Rutgers University. 
+I am a Postdoctoral Researcher at Yale University School of Medicine, working primarily with John Murray. I was previously a PhD student at Rutgers University with Michael Cole.
 
 My mother is from Hong Kong and my father is from Sapporo, Japan. I am from New York City.
 
@@ -15,17 +15,18 @@ My mother is from Hong Kong and my father is from Sapporo, Japan. I am from New 
 
 ### Research Interest
 
-I study the role of large-scale brain network organization in distributed information processing. In particular, I am interested in the computational principles of how information is transferred and transformed between brain areas, and how these processes relate to flexible behaviors. To address these questions, I use a combination of statistical analysis of neural data sets and mathematical/computational modeling. I have used fMRI and non-human primate electrophysiology, and have interests in other data modalities.
+I study the role of large-scale brain network organization in distributed information processing. In particular, I am interested in the computational and network principles of how the brain implements flexible behaviors across many tasks. I use a combination of statistical analysis of neural data sets and mathematical/computational modeling. In the past, I have used human fMRI and non-human primate electrophysiology, though I also have interests in other data modalities.
 
-I also have interests in neural network modeling, graph theory, nonlinear dynamics, machine learning, and information theory.
+Separately, I have interests in neural network modeling, network science, dynamical systems theory, and machine learning.
 
 
 
 ### Education
 
 Rutgers University<br/>
-PhD (2015-present)<br/>
+PhD (2015-2020)<br/>
 Neuroscience
+Dissertation: _Cognitive Information Transformation in Functional Brain Networks_
 
 
 
@@ -38,7 +39,12 @@ Minor: Computer Science
 
 ### Publications
 #### Preprint papers
-Cole MW, **Ito T**, Cocuzza CV, Sanchez-Romero R (2020). "The functional relevance of task-state functional connectivity". bioRxiv. [https://www.biorxiv.org/content/10.1101/2020.07.06.187245v1](https://www.biorxiv.org/content/10.1101/2020.07.06.187245v1)
+Ito T, Yang GR, Laurent P, Schultz DH, Cole MW (2020). Constructing neural network models from
+brain data reveals representational transformations underlying adaptive behavior. bioRxiv. [https:
+//doi.org/10.1101/2020.12.24.424353](https:
+//doi.org/10.1101/2020.12.24.424353)
+
+Cole MW, **Ito T**, Cocuzza CV, Sanchez-Romero R (2020). The functional relevance of task-state functional connectivity. bioRxiv. [https://www.biorxiv.org/content/10.1101/2020.07.06.187245v1](https://www.biorxiv.org/content/10.1101/2020.07.06.187245v1)
 
 #### Peer-reviewed publications
 #### 2020
