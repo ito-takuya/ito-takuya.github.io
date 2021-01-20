@@ -39,10 +39,8 @@ Minor: Computer Science
 
 ### Publications
 #### Preprint papers
-Ito T, Yang GR, Laurent P, Schultz DH, Cole MW (2020). Constructing neural network models from
-brain data reveals representational transformations underlying adaptive behavior. bioRxiv. [https:
-//doi.org/10.1101/2020.12.24.424353](https:
-//doi.org/10.1101/2020.12.24.424353)
+**Ito T**, Yang GR, Laurent P, Schultz DH, Cole MW (2020). Constructing neural network models from
+brain data reveals representational transformations underlying adaptive behavior. bioRxiv. [https://doi.org/10.1101/2020.12.24.424353](https://doi.org/10.1101/2020.12.24.424353)
 
 Cole MW, **Ito T**, Cocuzza CV, Sanchez-Romero R (2020). The functional relevance of task-state functional connectivity. bioRxiv. [https://www.biorxiv.org/content/10.1101/2020.07.06.187245v1](https://www.biorxiv.org/content/10.1101/2020.07.06.187245v1)
 
