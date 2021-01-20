@@ -25,7 +25,7 @@ Separately, I have interests in neural network modeling, network science, dynami
 
 Rutgers University<br/>
 PhD (2015-2020)<br/>
-Neuroscience
+Neuroscience<br/>
 Dissertation: _Cognitive Information Transformation in Functional Brain Networks_
 
 
