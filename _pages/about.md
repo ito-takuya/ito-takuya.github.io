@@ -9,6 +9,8 @@ redirect_from:
 ---
 I am a postdoctoral researcher at Yale University School of Medicine, working primarily with John Murray. I was previously a PhD student at Rutgers University with Michael Cole.
 
+I am based in NYC.
+
 [My CV](https://drive.google.com/file/d/1cLgXEmyrlHZD2wCkNwL7Ih574o6ubtcQ/view?usp=sharing)
 
 ### Research Interest
