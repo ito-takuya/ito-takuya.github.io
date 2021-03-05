@@ -39,13 +39,15 @@ Minor: Computer Science
 
 ### Publications
 #### Preprint papers
+Schultz DH, **Ito T**, Cole MW (2021). The human brain’s intrinsic network architecture is organized to represent diverse cognitive task information. bioRxiv. [https://doi.org/10.1101/2021.01.25.428141](https://doi.org/10.1101/2021.01.25.428141)
+
 **Ito T**, Yang GR, Laurent P, Schultz DH, Cole MW (2020). Constructing neural network models from
 brain data reveals representational transformations underlying adaptive behavior. bioRxiv. [https://doi.org/10.1101/2020.12.24.424353](https://doi.org/10.1101/2020.12.24.424353)
 
-Cole MW, **Ito T**, Cocuzza CV, Sanchez-Romero R (2020). The functional relevance of task-state functional connectivity. bioRxiv. [https://www.biorxiv.org/content/10.1101/2020.07.06.187245v1](https://www.biorxiv.org/content/10.1101/2020.07.06.187245v1)
-
 #### Peer-reviewed publications
 #### 2021
+
+Cole MW, **Ito T**, Cocuzza CV, Sanchez-Romero R (2020). The functional relevance of task-state functional connectivity. Journal of Neuroscience. [https://doi.org/10.1523/JNEUROSCI.1713-20.2021](https://doi.org/10.1523/JNEUROSCI.1713-20.2021)
 
 Spronk M, Keane BP, **Ito T**, Kulkarni K, Ji JL, Anticevic A, Cole MW (2021). A whole-brain and cross-diagnostic perspective on functional brain network dysfunction. Cerebral Cortex. [https://doi.org/10.1093/cercor/bhaa242](https://doi.org/10.1093/cercor/bhaa242)
 
@@ -55,7 +57,7 @@ Spronk M, Keane BP, **Ito T**, Kulkarni K, Ji JL, Anticevic A, Cole MW (2021). A
 
 Cocuzza CV, **Ito T**, Schultz DH, Bassett DS, Cole MW (2020). Flexible coordinator and switcher hubs for adaptive task control. Journal of Neuroscience. [https://doi.org/10.1523/JNEUROSCI.2559-19.2020](https://doi.org/10.1523/JNEUROSCI.2559-19.2020)
 
-**Ito T**, Brincat SL, Siegel M, Mill RD, He BJ, Miller EK, Rotstein HG, Cole MW (2020). Task-evoked activity quenches neural correlations and variability across cortical areas. PLoS Computational Biology. [https://doi.org/10.1371/journal.pcbi.1007983](https://doi.org/10.1371/journal.pcbi.1007983)
+**Ito T**, Brincat SL, Siegel M, Mill RD, He BJ, Miller EK, Rotstein HG, Cole MW (2020). [Task-evoked activity quenches neural correlations and variability across cortical areas](../files/publications/Ito et al_2020_Task-evoked activity quenches neural correlations and variability across.pdf). [https://doi.org/10.1371/journal.pcbi.1007983](https://doi.org/10.1371/journal.pcbi.1007983)
 
 Kar K, **Ito T**, Cole MW, Krekelberg B (2020). [Transcranial alternating current stimulation reduces BOLD adaptation and increases functional connectivity](../files/publications/Kar et al. - 2019 - Transcranial alternating current stimulation atten.pdf). Journal of Neurophysiology. [https://doi.org/10.1152/jn.00376.2019](https://doi.org/10.1152/jn.00376.2019)
 #### 2019
@@ -89,7 +91,7 @@ Cole MW, **Ito T** (September 2017). Computational network mechanisms of task-ev
 
 ### Conference abstracts
 #### 2021
-**Ito T**, Klinger T, Schultz DH, Cole MW, Rigotti M (February 2021). The role of compositional abstraction in human and artificial neural networks. Poster at Computational and Systems Neuroscience (Cosyne).
+**Ito T**, Klinger T, Schultz DH, Cole MW, Rigotti M (February 2021). [The role of compositional abstraction in human and artificial neural networks](../files/abstracts/2021Cosyne_ItoKlinger.png). Poster at Computational and Systems Neuroscience (Cosyne).
 
 #### 2020
 **Ito T**, Hearne LJ, Cole MW (June 2020). [Cognitive information differentiates between connectivity and activity across the cortical hierarchy](../files/abstracts/2020OHBM_ItoEtAl/ItoHearneCole_OHBM2020.pdf). Poster and talk presented at Organization for Human Brain Mapping (Virtual).
