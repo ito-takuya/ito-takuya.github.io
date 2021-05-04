@@ -41,7 +41,7 @@ Minor: Computer Science
 #### Preprint papers
 Sanchez-Romero R, **Ito T**, Mill RD, Hanson SJ, Cole MW (2021). Causally informed activity flow models provide mechanistic insight into the emergence of cognitive processes from brain network interactions. bioRxiv. [https://doi.org/10.1101/2021.04.16.440226](https://doi.org/10.1101/2021.04.16.440226)
 
-3. \*McCormick EM, \*Arnemann KL, **Ito T**, Hanson SJ, Cole MW (2021). Latent functional connectivity underlying multiple brain states. bioRxiv. [https://doi.org/10.1101/2021.04.05.438534](https://doi.org/10.1101/2021.04.05.438534)
+\*McCormick EM, \*Arnemann KL, **Ito T**, Hanson SJ, Cole MW (2021). Latent functional connectivity underlying multiple brain states. bioRxiv. [https://doi.org/10.1101/2021.04.05.438534](https://doi.org/10.1101/2021.04.05.438534)
 
 Schultz DH, **Ito T**, Cole MW (2021). The human brain’s intrinsic network architecture is organized to represent diverse cognitive task information. bioRxiv. [https://doi.org/10.1101/2021.01.25.428141](https://doi.org/10.1101/2021.01.25.428141)
 
