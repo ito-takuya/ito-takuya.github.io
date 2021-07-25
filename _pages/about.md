@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a postdoctoral researcher at Yale University School of Medicine, working with John Murray. I was previously a PhD student at Rutgers University with Michael Cole.
+I am a postdoctoral researcher at Yale University School of Medicine, working with [John Murray](https://medicine.yale.edu/lab/murray/). I was previously a PhD student at Rutgers University with [Michael Cole](https://www.colelab.org/).
 
 I am based in NYC.
 
@@ -15,7 +15,7 @@ I am based in NYC.
 
 ### Research Interest
 
-I study the role of large-scale brain network organization in distributed information processing. In particular, I am interested in the computational and network principles of how the brain implements flexible behaviors across many tasks. I use a combination of statistical analysis of neural data sets and mathematical/computational modeling. In the past, I have used human fMRI and non-human primate electrophysiology, though I also have interests in other data modalities.
+I study the role of large-scale brain network organization in distributed information processing. In particular, I am interested in the computational principles of how the brain implements flexible behaviors across many tasks. I use a combination of statistical analysis of neural data sets and mathematical/computational modeling. In the past, I have used human fMRI and non-human primate electrophysiology, though I also have interests in other data modalities.
 
 Separately, I have interests in neural network modeling, network science, dynamical systems theory, and machine learning.
 
