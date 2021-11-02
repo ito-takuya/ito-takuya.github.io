@@ -15,9 +15,9 @@ I am based in NYC.
 
 ### Research Interest
 
-I study the role of large-scale brain network organization in distributed information processing. In particular, I am interested in the computational principles of how the brain implements flexible behaviors across many tasks. I use a combination of statistical analysis of neural data sets and mathematical/computational modeling. In the past, I have used human fMRI and non-human primate electrophysiology, though I also have interests in other data modalities.
+I study neural information processing in brains and models. More recently, my specific interests lie in understanding the structure of multi-task neural representations across the brain and how they emerge in computational models. My motivation (beyond my intrinsic interest in understanding the neural systems) is twofold: 1) To understand computational properties of the brain to better inform the design of computational models (e.g., to achieve and excede human-like performance during multi-task performance); 2) To better understand cognitive deficits in psychiatric illnesses using computational language. I use a combination of statistical analysis of neural data sets and mathematical/computational modeling. In the past, I have used human fMRI and non-human primate electrophysiology, though I also have interests in other data modalities.
 
-Separately, I have interests in neural network modeling, network science, dynamical systems theory, and machine learning.
+I also have methodological interests in neural network modeling, network science, dynamical systems theory, and ML/statistics.
 
 
 
