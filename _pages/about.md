@@ -39,7 +39,7 @@ Minor: Computer Science
 
 ### Publications
 #### Preprint papers
-**Ito T**, Murray JD (2021). Multi-task representations in human cortex transform along a sensory-to-motor hierarchy. bioRxiv. https://www.biorxiv.org/content/10.1101/2021.11.29.470432v1
+**Ito T**, Murray JD (2021). Multi-task representations in human cortex transform along a sensory-to-motor hierarchy. bioRxiv. [https://www.biorxiv.org/content/10.1101/2021.11.29.470432v1](https://www.biorxiv.org/content/10.1101/2021.11.29.470432v1)
 
 Sanchez-Romero R, **Ito T**, Mill RD, Hanson SJ, Cole MW (2021). Causally informed activity flow models provide mechanistic insight into the emergence of cognitive processes from brain network interactions. bioRxiv. [https://doi.org/10.1101/2021.04.16.440226](https://doi.org/10.1101/2021.04.16.440226)
 
