@@ -11,7 +11,7 @@ I am a postdoctoral researcher at Yale University School of Medicine, working wi
 
 I am based in NYC.
 
-[My CV](https://drive.google.com/file/d/1cLgXEmyrlHZD2wCkNwL7Ih574o6ubtcQ/view?usp=sharing)
+[My CV](https://drive.google.com/file/d/1nAB5iUn_TU9C3Y_Iysdx6VjkXRfYP8oi/view?usp=sharing)
 
 ### Research Interest
 
