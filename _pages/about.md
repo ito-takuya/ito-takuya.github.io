@@ -43,14 +43,16 @@ Minor: Computer Science
 
 Sanchez-Romero R, **Ito T**, Mill RD, Hanson SJ, Cole MW (2021). Causally informed activity flow models provide mechanistic insight into the emergence of cognitive processes from brain network interactions. bioRxiv. [https://doi.org/10.1101/2021.04.16.440226](https://doi.org/10.1101/2021.04.16.440226)
 
-\*McCormick EM, \*Arnemann KL, **Ito T**, Hanson SJ, Cole MW (2021). Latent functional connectivity underlying multiple brain states. bioRxiv. [https://doi.org/10.1101/2021.04.05.438534](https://doi.org/10.1101/2021.04.05.438534)
-
-Schultz DH, **Ito T**, Cole MW (2021). The human brain’s intrinsic network architecture is organized to represent diverse cognitive task information. bioRxiv. [https://doi.org/10.1101/2021.01.25.428141](https://doi.org/10.1101/2021.01.25.428141)
-
-**Ito T**, Yang GR, Laurent P, Schultz DH, Cole MW (2021). Constructing neural network models from
-brain data reveals representational transformations underlying adaptive behavior. bioRxiv. [https://doi.org/10.1101/2020.12.24.424353](https://doi.org/10.1101/2020.12.24.424353)
-
 #### Peer-reviewed publications
+#### 2022
+
+\*McCormick EM, \*Arnemann KL, **Ito T**, Hanson SJ, Cole MW (In press). Latent functional connectivity underlying multiple brain states. Network Neuroscience. [https://doi.org/10.1101/2021.04.05.438534](https://doi.org/10.1101/2021.04.05.438534)
+
+Schultz DH, **Ito T**, Cole MW (In press). The human brain’s intrinsic network architecture is organized to represent diverse cognitive task information. Cerebral Cortex. [https://doi.org/10.1101/2021.01.25.428141](https://doi.org/10.1101/2021.01.25.428141)
+
+**Ito T**, Yang GR, Laurent P, Schultz DH, Cole MW (In press). Constructing neural network models from
+brain data reveals representational transformations underlying adaptive behavior. Nature Communications. [https://doi.org/10.1101/2020.12.24.424353](https://doi.org/10.1101/2020.12.24.424353)
+
 #### 2021
 
 Cole MW, **Ito T**, Cocuzza CV, Sanchez-Romero R (2020). The functional relevance of task-state functional connectivity. Journal of Neuroscience. [https://doi.org/10.1523/JNEUROSCI.1713-20.2021](https://doi.org/10.1523/JNEUROSCI.1713-20.2021)
