@@ -46,12 +46,12 @@ Sanchez-Romero R, **Ito T**, Mill RD, Hanson SJ, Cole MW (2021). Causally inform
 #### Peer-reviewed publications
 #### 2022
 
-\*McCormick EM, \*Arnemann KL, **Ito T**, Hanson SJ, Cole MW (In press). Latent functional connectivity underlying multiple brain states. Network Neuroscience. [https://doi.org/10.1101/2021.04.05.438534](https://doi.org/10.1101/2021.04.05.438534)
+**Ito T**, Yang GR, Laurent P, Schultz DH, Cole MW (2022). Constructing neural network models from
+brain data reveals representational transformations underlying adaptive behavior. Nature Communications. [https://doi.org/10.1038/s41467-022-28323-7](https://doi.org/10.1038/s41467-022-28323-7)
 
-Schultz DH, **Ito T**, Cole MW (In press). The human brain’s intrinsic network architecture is organized to represent diverse cognitive task information. Cerebral Cortex. [https://doi.org/10.1101/2021.01.25.428141](https://doi.org/10.1101/2021.01.25.428141)
+\*McCormick EM, \*Arnemann KL, **Ito T**, Hanson SJ, Cole MW (2022). Latent functional connectivity underlying multiple brain states. Network Neuroscience. [https://doi.org/10.1162/netn_a_00234](https://doi.org/10.1162/netn_a_00234)
 
-**Ito T**, Yang GR, Laurent P, Schultz DH, Cole MW (In press). Constructing neural network models from
-brain data reveals representational transformations underlying adaptive behavior. Nature Communications. [https://doi.org/10.1101/2020.12.24.424353](https://doi.org/10.1101/2020.12.24.424353)
+Schultz DH, **Ito T**, Cole MW (2022). The human brain’s intrinsic network architecture is organized to represent diverse cognitive task information. Cerebral Cortex. [https://doi.org/10.1093/cercor/bhab495](https://doi.org/10.1093/cercor/bhab495)
 
 #### 2021
 
