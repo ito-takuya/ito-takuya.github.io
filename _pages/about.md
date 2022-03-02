@@ -7,17 +7,17 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a postdoctoral researcher at Yale University School of Medicine, working primarily with John Murray. I was previously a PhD student at Rutgers University with Michael Cole.
+I am a postdoctoral researcher at Yale University School of Medicine, working with [John Murray](https://medicine.yale.edu/lab/murray/). I was previously a PhD student at Rutgers University with [Michael Cole](https://www.colelab.org/).
 
 I am based in NYC.
 
-[My CV](https://drive.google.com/file/d/1cLgXEmyrlHZD2wCkNwL7Ih574o6ubtcQ/view?usp=sharing)
+[My CV](https://drive.google.com/file/d/1nAB5iUn_TU9C3Y_Iysdx6VjkXRfYP8oi/view?usp=sharing)
 
 ### Research Interest
 
-I study the role of large-scale brain network organization in distributed information processing. In particular, I am interested in the computational and network principles of how the brain implements flexible behaviors across many tasks. I use a combination of statistical analysis of neural data sets and mathematical/computational modeling. In the past, I have used human fMRI and non-human primate electrophysiology, though I also have interests in other data modalities.
+I study neural information processing in brains and models using computational approaches. More recently, my specific interests lie in understanding the structure of multi-task neural representations and how they emerge in natural and artificial settings. My motivation is twofold: 1) To understand properties of the brain to better inform the design of computational models (e.g., to achieve and excede human-like performance during multi-task performance); 2) To better understand cognitive deficits in psychiatric illnesses using computational language. In the past, I have used human fMRI and non-human primate electrophysiology, though I also have interests in other empirical data modalities.
 
-Separately, I have interests in neural network modeling, network science, dynamical systems theory, and machine learning.
+I also have methodological interests in neural network modeling, network science, dynamical systems theory, and ML/statistics.
 
 
 
@@ -39,13 +39,25 @@ Minor: Computer Science
 
 ### Publications
 #### Preprint papers
-**Ito T**, Yang GR, Laurent P, Schultz DH, Cole MW (2020). Constructing neural network models from
-brain data reveals representational transformations underlying adaptive behavior. bioRxiv. [https://doi.org/10.1101/2020.12.24.424353](https://doi.org/10.1101/2020.12.24.424353)
+Cocuzza CV, Sanchez-Romero R, **Ito T**, Mill RD, Keane BP, Cole MW (2022). Distributed network processes account for the majority of variance in localized visual category selectivity. bioRxiv. [https://www.biorxiv.org/content/10.1101/2022.02.19.481103](https://www.biorxiv.org/content/10.1101/2022.02.19.481103)
 
-Cole MW, **Ito T**, Cocuzza CV, Sanchez-Romero R (2020). The functional relevance of task-state functional connectivity. bioRxiv. [https://www.biorxiv.org/content/10.1101/2020.07.06.187245v1](https://www.biorxiv.org/content/10.1101/2020.07.06.187245v1)
+**Ito T**, Murray JD (2021). Multi-task representations in human cortex transform along a sensory-to-motor hierarchy. bioRxiv. [https://www.biorxiv.org/content/10.1101/2021.11.29.470432v1](https://www.biorxiv.org/content/10.1101/2021.11.29.470432v1)
+
+Sanchez-Romero R, **Ito T**, Mill RD, Hanson SJ, Cole MW (2021). Causally informed activity flow models provide mechanistic insight into the emergence of cognitive processes from brain network interactions. bioRxiv. [https://doi.org/10.1101/2021.04.16.440226](https://doi.org/10.1101/2021.04.16.440226)
 
 #### Peer-reviewed publications
+#### 2022
+
+**Ito T**, Yang GR, Laurent P, Schultz DH, Cole MW (2022). Constructing neural network models from
+brain data reveals representational transformations underlying adaptive behavior. Nature Communications. [https://doi.org/10.1038/s41467-022-28323-7](https://doi.org/10.1038/s41467-022-28323-7)
+
+\*McCormick EM, \*Arnemann KL, **Ito T**, Hanson SJ, Cole MW (2022). Latent functional connectivity underlying multiple brain states. Network Neuroscience. [https://doi.org/10.1162/netn_a_00234](https://doi.org/10.1162/netn_a_00234)
+
+Schultz DH, **Ito T**, Cole MW (2022). The human brain’s intrinsic network architecture is organized to represent diverse cognitive task information. Cerebral Cortex. [https://doi.org/10.1093/cercor/bhab495](https://doi.org/10.1093/cercor/bhab495)
+
 #### 2021
+
+Cole MW, **Ito T**, Cocuzza CV, Sanchez-Romero R (2020). The functional relevance of task-state functional connectivity. Journal of Neuroscience. [https://doi.org/10.1523/JNEUROSCI.1713-20.2021](https://doi.org/10.1523/JNEUROSCI.1713-20.2021)
 
 Spronk M, Keane BP, **Ito T**, Kulkarni K, Ji JL, Anticevic A, Cole MW (2021). A whole-brain and cross-diagnostic perspective on functional brain network dysfunction. Cerebral Cortex. [https://doi.org/10.1093/cercor/bhaa242](https://doi.org/10.1093/cercor/bhaa242)
 
@@ -55,7 +67,7 @@ Spronk M, Keane BP, **Ito T**, Kulkarni K, Ji JL, Anticevic A, Cole MW (2021). A
 
 Cocuzza CV, **Ito T**, Schultz DH, Bassett DS, Cole MW (2020). Flexible coordinator and switcher hubs for adaptive task control. Journal of Neuroscience. [https://doi.org/10.1523/JNEUROSCI.2559-19.2020](https://doi.org/10.1523/JNEUROSCI.2559-19.2020)
 
-**Ito T**, Brincat SL, Siegel M, Mill RD, He BJ, Miller EK, Rotstein HG, Cole MW (2020). Task-evoked activity quenches neural correlations and variability across cortical areas. PLoS Computational Biology. [https://doi.org/10.1371/journal.pcbi.1007983](https://doi.org/10.1371/journal.pcbi.1007983)
+**Ito T**, Brincat SL, Siegel M, Mill RD, He BJ, Miller EK, Rotstein HG, Cole MW (2020). [Task-evoked activity quenches neural correlations and variability across cortical areas](../files/publications/Ito et al_2020_Task-evoked activity quenches neural correlations and variability across.pdf). PLOS Computational Biology. [https://doi.org/10.1371/journal.pcbi.1007983](https://doi.org/10.1371/journal.pcbi.1007983)
 
 Kar K, **Ito T**, Cole MW, Krekelberg B (2020). [Transcranial alternating current stimulation reduces BOLD adaptation and increases functional connectivity](../files/publications/Kar et al. - 2019 - Transcranial alternating current stimulation atten.pdf). Journal of Neurophysiology. [https://doi.org/10.1152/jn.00376.2019](https://doi.org/10.1152/jn.00376.2019)
 #### 2019
@@ -88,8 +100,11 @@ Cole MW, **Ito T** (September 2017). Computational network mechanisms of task-ev
 
 
 ### Conference abstracts
+#### 2022
+**Ito T**, Murray JD (March 2022). [Multi-task representations in human cortex transform along a sensory-to-motor hierarchy](../files/abstracts/2022Cosyne_ItoMurray.jpg). Poster at Computational and Systems Neuroscience (Cosyne).
+
 #### 2021
-**Ito T**, Klinger T, Schultz DH, Cole MW, Rigotti M (February 2021). The role of compositional abstraction in human and artificial neural networks. Poster at Computational and Systems Neuroscience (Cosyne).
+**Ito T**, Klinger T, Schultz DH, Cole MW, Rigotti M (February 2021). [The role of compositional abstraction in human and artificial neural networks](../files/abstracts/2021Cosyne_ItoKlinger.png). Poster at Computational and Systems Neuroscience (Cosyne).
 
 #### 2020
 **Ito T**, Hearne LJ, Cole MW (June 2020). [Cognitive information differentiates between connectivity and activity across the cortical hierarchy](../files/abstracts/2020OHBM_ItoEtAl/ItoHearneCole_OHBM2020.pdf). Poster and talk presented at Organization for Human Brain Mapping (Virtual).
