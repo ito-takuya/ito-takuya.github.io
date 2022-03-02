@@ -39,6 +39,8 @@ Minor: Computer Science
 
 ### Publications
 #### Preprint papers
+Cocuzza CV, Sanchez-Romero R, **Ito T**, Mill RD, Keane BP, Cole MW (2022). Distributed network processes account for the majority of variance in localized visual category selectivity. bioRxiv. [https://www.biorxiv.org/content/10.1101/2022.02.19.481103](https://www.biorxiv.org/content/10.1101/2022.02.19.481103)
+
 **Ito T**, Murray JD (2021). Multi-task representations in human cortex transform along a sensory-to-motor hierarchy. bioRxiv. [https://www.biorxiv.org/content/10.1101/2021.11.29.470432v1](https://www.biorxiv.org/content/10.1101/2021.11.29.470432v1)
 
 Sanchez-Romero R, **Ito T**, Mill RD, Hanson SJ, Cole MW (2021). Causally informed activity flow models provide mechanistic insight into the emergence of cognitive processes from brain network interactions. bioRxiv. [https://doi.org/10.1101/2021.04.16.440226](https://doi.org/10.1101/2021.04.16.440226)
@@ -98,6 +100,9 @@ Cole MW, **Ito T** (September 2017). Computational network mechanisms of task-ev
 
 
 ### Conference abstracts
+#### 2022
+**Ito T**, Murray JD (March 2022). [Multi-task representations in human cortex transform along a sensory-to-motor hierarchy](../files/abstracts/2022Cosyne_ItoMurray.jpg). Poster at Computational and Systems Neuroscience (Cosyne).
+
 #### 2021
 **Ito T**, Klinger T, Schultz DH, Cole MW, Rigotti M (February 2021). [The role of compositional abstraction in human and artificial neural networks](../files/abstracts/2021Cosyne_ItoKlinger.png). Poster at Computational and Systems Neuroscience (Cosyne).
 
