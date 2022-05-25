@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a postdoctoral researcher at Yale University School of Medicine, working with [John Murray](https://medicine.yale.edu/lab/murray/). I was previously a PhD student at Rutgers University with [Michael Cole](https://www.colelab.org/).
+I am a postdoctoral researcher at Yale University working with [John Murray](https://medicine.yale.edu/lab/murray/). I was previously a PhD student at Rutgers University with [Michael Cole](https://www.colelab.org/).
 
 I am based in NYC.
 
@@ -101,7 +101,11 @@ Cole MW, **Ito T** (September 2017). Computational network mechanisms of task-ev
 
 ### Conference abstracts
 #### 2022
-**Ito T**, Murray JD (March 2022). [Multi-task representations in human cortex transform along a sensory-to-motor hierarchy](../files/abstracts/2022Cosyne_ItoMurray.jpg). Poster at Computational and Systems Neuroscience (Cosyne).
+**Ito T**, Murray JD (June 2022). [Multi-task representations in human cortex transform along a sensory-to-motor hierarchy](../files/abstracts/2022Cosyne_ItoMurray.jpg). Organization for Human Brain Mapping, Glasgow Scotland.
+
+**Ito T**, Murray JD (April 2022). [Multi-task representations in human cortex transform along a sensory-to-motor hierarchy](../files/abstracts/2022Cosyne_ItoMurray.jpg). From Neuroscience to Artificially Intellignent Systems (NAISys), Cold Spring Harbor Laboratory.
+
+**Ito T**, Murray JD (March 2022). [Multi-task representations in human cortex transform along a sensory-to-motor hierarchy](../files/abstracts/2022Cosyne_ItoMurray.jpg). Poster at Computational and Systems Neuroscience (Cosyne), Lisbon, Portugal.
 
 #### 2021
 **Ito T**, Klinger T, Schultz DH, Cole MW, Rigotti M (February 2021). [The role of compositional abstraction in human and artificial neural networks](../files/abstracts/2021Cosyne_ItoKlinger.png). Poster at Computational and Systems Neuroscience (Cosyne).
