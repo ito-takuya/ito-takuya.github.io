@@ -15,7 +15,7 @@ I am based in NYC.
 
 ### Research Interest
 
-I study neural information processing in brains and models using computational approaches. More recently, my specific interests lie in understanding the structure of multi-task neural representations and how they emerge in natural and artificial settings. My motivation is twofold: 1) To understand properties of the brain to better inform the design of computational models (e.g., to achieve and excede human-like performance during multi-task performance); 2) To better understand cognitive deficits in psychiatric illnesses using computational language. In the past, I have used human fMRI and non-human primate electrophysiology, though I also have interests in other empirical data modalities.
+I study information processing in brains and neural models. More recently, my specific interests lie in understanding the structure of multi-task and compositional neural representations, and how they emerge in natural and artificial settings. My motivation is twofold: 1) To understand properties of the brain to better inform the design of computational models (e.g., to achieve and excede human-like performance); 2) To better understand cognitive deficits in psychiatric illnesses using computational language. In the past, I have used human fMRI and non-human primate electrophysiology, though I also have interests in other empirical data modalities.
 
 I also have methodological interests in neural network modeling, network science, dynamical systems theory, and ML/statistics.
 
