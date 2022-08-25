@@ -15,7 +15,7 @@ I am based in NYC.
 
 ### Research Interest
 
-I study information processing in brains and neural models. More recently, my specific interests lie in understanding the structure of multi-task and compositional neural representations, and how they emerge in natural and artificial settings. My motivation is twofold: 1) To understand properties of the brain to better inform the design of computational models (e.g., to achieve and excede human-like performance); 2) To better understand cognitive deficits in psychiatric illnesses using computational language. In the past, I have used human fMRI and non-human primate electrophysiology, though I also have interests in other empirical data modalities.
+I study information processing in brains and neural models. More recently, my specific interests lie in understanding the structure of multi-task and compositional neural representations, and how they emerge in natural and artificial settings. My motivation is twofold: 1) To understand properties of the brain to better inform the design of computational models (e.g., to achieve and excede human-like performance); 2) To better understand cognitive/computational deficits in psychiatric illnesses. In the past, I have used human fMRI and non-human primate electrophysiology, though I also have interests in other empirical data modalities.
 
 I also have methodological interests in neural network modeling, network science, dynamical systems theory, and ML/statistics.
 
@@ -35,7 +35,18 @@ BA (2009-2013)<br/>
 Majors: Mathematics, Philosophy-Neuroscience-Psychology<br/>
 Minor: Computer Science
 
+### Selected publications
 
+**Ito T**, Murray JD (2021). Multi-task representations in human cortex transform along a sensory-to-motor hierarchy. bioRxiv. [https://www.biorxiv.org/content/10.1101/2021.11.29.470432v1](https://www.biorxiv.org/content/10.1101/2021.11.29.470432v1)
+
+**Ito T**, Yang GR, Laurent P, Schultz DH, Cole MW (2022). Constructing neural network models from
+brain data reveals representational transformations underlying adaptive behavior. Nature Communications. [https://doi.org/10.1038/s41467-022-28323-7](https://doi.org/10.1038/s41467-022-28323-7)
+
+**Ito T**, Hearne LJ, Cole MW (2020). [A cortical hierarchy of localized and distributed processes revealed via dissociation of task activations, connectivity changes, and intrinsic timescales](../files/publications/Ito et al_2020_A cortical hierarchy of localized and distributed processes revealed via.pdf). NeuroImage. [https://doi.org/10.1016/j.neuroimage.2020.117141](https://doi.org/10.1016/j.neuroimage.2020.117141)
+
+**Ito T**, Brincat SL, Siegel M, Mill RD, He BJ, Miller EK, Rotstein HG, Cole MW (2020). [Task-evoked activity quenches neural correlations and variability across cortical areas](../files/publications/Ito et al_2020_Task-evoked activity quenches neural correlations and variability across.pdf). PLOS Computational Biology. [https://doi.org/10.1371/journal.pcbi.1007983](https://doi.org/10.1371/journal.pcbi.1007983)
+
+**Ito T**, Kulkarni KR, Schultz DH, Mill RD, Chen RH, Solomyak LI, & Cole MW (2017). [Cognitive task information is transferred between brain regions via resting-state network topology](https://ito-takuya.github.io/files/publications/Ito%20et%20al.%20-%202017%20-%20Cognitive%20task%20information%20is%20transferred%20between%20brain%20regions%20via%20resting-state%20network%20topology.pdf). Nature Communications. doi:10.1038/s41467-017-01000-w. [Blog post](https://blog.colelab.org/2017/10/18/a-network-mechanism-for-the-transfer-of-cognitive-information-between-brain-regions/).
 
 ### Publications
 #### Preprint papers
