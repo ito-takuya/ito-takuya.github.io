@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a postdoctoral researcher at Yale University working with [John Murray](https://medicine.yale.edu/lab/murray/). I was previously a PhD student at Rutgers University with [Michael Cole](https://www.colelab.org/).
+I am a postdoctoral researcher at Yale University working with [John Murray](https://murraylab.org). I was previously a PhD student at Rutgers University with [Michael Cole](https://www.colelab.org/).
 
 I am based in NYC.
 
