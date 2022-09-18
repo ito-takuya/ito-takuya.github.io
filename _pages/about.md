@@ -37,6 +37,8 @@ Minor: Computer Science
 
 ### Selected publications
 
+**Ito T**, Klinger T, Schultz DH, Murray JD, Cole MW, Rigotti M (2022). Compositional generalization through abstract representations in human and artificial neural networks. Advances in Neural Information Processing Systems 35, NeurIPS. [http://arxiv.org/abs/2209.07431](http://arxiv.org/abs/2209.07431)
+
 **Ito T**, Murray JD (2021). Multi-task representations in human cortex transform along a sensory-to-motor hierarchy. bioRxiv. [https://www.biorxiv.org/content/10.1101/2021.11.29.470432v1](https://www.biorxiv.org/content/10.1101/2021.11.29.470432v1)
 
 **Ito T**, Yang GR, Laurent P, Schultz DH, Cole MW (2022). [Constructing neural network models from
@@ -58,6 +60,8 @@ Sanchez-Romero R, **Ito T**, Mill RD, Hanson SJ, Cole MW (2021). Causally inform
 
 #### Peer-reviewed publications
 #### 2022
+
+**Ito T**, Klinger T, Schultz DH, Murray JD, Cole MW, Rigotti M (2022). Compositional generalization through abstract representations in human and artificial neural networks. Advances in Neural Information Processing Systems 35, NeurIPS. [http://arxiv.org/abs/2209.07431](http://arxiv.org/abs/2209.07431)
 
 **Ito T**, Yang GR, Laurent P, Schultz DH, Cole MW (2022). [Constructing neural network models from
 brain data reveals representational transformations underlying adaptive behavior](../files/publications/Ito et al_2022_Constructing neural network models from brain data reveals representational.pdf). Nature Communications. [https://doi.org/10.1038/s41467-022-28323-7](https://doi.org/10.1038/s41467-022-28323-7)
