@@ -44,7 +44,8 @@ Minor: Computer Science
 **Ito T**, Yang GR, Laurent P, Schultz DH, Cole MW (2022). [Constructing neural network models from
 brain data reveals representational transformations underlying adaptive behavior](../files/publications/Ito et al_2022_Constructing neural network models from brain data reveals representational.pdf). Nature Communications. [https://doi.org/10.1038/s41467-022-28323-7](https://doi.org/10.1038/s41467-022-28323-7)
 
-[comment]: # **Ito T**, Hearne LJ, Cole MW (2020). [A cortical hierarchy of localized and distributed processes revealed via dissociation of task activations, connectivity changes, and intrinsic timescales](../files/publications/Ito et al_2020_A cortical hierarchy of localized and distributed processes revealed via.pdf). NeuroImage. [https://doi.org/10.1016/j.neuroimage.2020.117141](https://doi.org/10.1016/j.neuroimage.2020.117141)
+<!-- **Ito T**, Hearne LJ, Cole MW (2020). [A cortical hierarchy of localized and distributed processes revealed via dissociation of task activations, connectivity changes, and intrinsic timescales](../files/publications/Ito et al_2020_A cortical hierarchy of localized and distributed processes revealed via.pdf). NeuroImage. [https://doi.org/10.1016/j.neuroimage.2020.117141](https://doi.org/10.1016/j.neuroimage.2020.117141)
+--> 
 
 **Ito T**, Brincat SL, Siegel M, Mill RD, He BJ, Miller EK, Rotstein HG, Cole MW (2020). [Task-evoked activity quenches neural correlations and variability across cortical areas](../files/publications/Ito et al_2020_Task-evoked activity quenches neural correlations and variability across.pdf). PLOS Computational Biology. [https://doi.org/10.1371/journal.pcbi.1007983](https://doi.org/10.1371/journal.pcbi.1007983)
 
