@@ -37,7 +37,7 @@ Minor: Computer Science
 
 ### Selected publications
 
-**Ito T**, Murray JD (In press). Multi-task representations in human cortex transform along a sensory-to-motor hierarchy. *Nature Neuroscience*. [https://www.biorxiv.org/content/10.1101/2021.11.29.470432v1](https://www.biorxiv.org/content/10.1101/2021.11.29.470432v1)
+**Ito T**, Murray JD (In press). Multi-task representations in human cortex transform along a sensory-to-motor hierarchy. *Nature Neuroscience*. [https://doi.org/10.1101/2021.11.29.470432](https://doi.org/10.1101/2021.11.29.470432)
 
 **Ito T**, Klinger T, Schultz DH, Murray JD, Cole MW, Rigotti M (2022). Compositional generalization through abstract representations in human and artificial neural networks. *Advances in Neural Information Processing Systems (NeurIPS)*. [http://arxiv.org/abs/2209.07431](http://arxiv.org/abs/2209.07431)
 
@@ -60,7 +60,7 @@ Sanchez-Romero R, **Ito T**, Mill RD, Hanson SJ, Cole MW (2021). Causally inform
 #### Peer-reviewed papers
 #### 2022
 
-**Ito T**, Murray JD (In press). Multi-task representations in human cortex transform along a sensory-to-motor hierarchy. *Nature Neuroscience*. [https://www.biorxiv.org/content/10.1101/2021.11.29.470432v1](https://www.biorxiv.org/content/10.1101/2021.11.29.470432v1)
+**Ito T**, Murray JD (In press). Multi-task representations in human cortex transform along a sensory-to-motor hierarchy. *Nature Neuroscience*. [https://doi.org/10.1101/2021.11.29.470432](https://doi.org/10.1101/2021.11.29.470432)
 
 **Ito T**, Klinger T, Schultz DH, Murray JD, Cole MW, Rigotti M (2022). Compositional generalization through abstract representations in human and artificial neural networks. *Advances in Neural Information Processing Systems (NeurIPS)*. [http://arxiv.org/abs/2209.07431](http://arxiv.org/abs/2209.07431)
 
