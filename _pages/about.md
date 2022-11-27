@@ -53,6 +53,8 @@ brain data reveals representational transformations underlying adaptive behavior
 
 ### Publications
 #### Preprint papers
+**Ito T**, Murray JD (2022). Large-scale signal and noise correlations configure multi-task coding in human brain networks. *bioRxiv*. [https://www.biorxiv.org/content/10.1101/2022.11.23.517699](https://www.biorxiv.org/content/10.1101/2022.11.23.517699)
+
 Cocuzza CV, Sanchez-Romero R, **Ito T**, Mill RD, Keane BP, Cole MW (2022). Distributed network processes account for the majority of variance in localized visual category selectivity. *bioRxiv*. [https://www.biorxiv.org/content/10.1101/2022.02.19.481103](https://www.biorxiv.org/content/10.1101/2022.02.19.481103)
 
 Sanchez-Romero R, **Ito T**, Mill RD, Hanson SJ, Cole MW (2021). Causally informed activity flow models provide mechanistic insight into the emergence of cognitive processes from brain network interactions. *bioRxiv*. [https://doi.org/10.1101/2021.04.16.440226](https://doi.org/10.1101/2021.04.16.440226)
