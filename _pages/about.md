@@ -37,7 +37,7 @@ Minor: Computer Science
 
 ### Selected publications
 
-**Ito T**, Murray JD (In press). Multi-task representations in human cortex transform along a sensory-to-motor hierarchy. *Nature Neuroscience*. [https://doi.org/10.1101/2021.11.29.470432](https://doi.org/10.1101/2021.11.29.470432)
+**Ito T**, Murray JD (2022). [Multitask representations in the human cortex transform along a sensory-to-motor hierarchy](../files/publications/Ito and Murray - 2022 - Multitask representations in the human cortex tran.pdf). *Nature Neuroscience*. [https://www.nature.com/articles/s41593-022-01224-0](https://www.nature.com/articles/s41593-022-01224-0)
 
 **Ito T**, Klinger T, Schultz DH, Murray JD, Cole MW, Rigotti M (2022). [Compositional generalization through abstract representations in human and artificial neural networks](../files/publications/Ito et al. - Compositional generalization through abstract repr.pdf). *Advances in Neural Information Processing Systems (NeurIPS)*. [https://openreview.net/forum?id=177GzUAds8U](https://openreview.net/forum?id=177GzUAds8U)
 
@@ -62,7 +62,7 @@ Sanchez-Romero R, **Ito T**, Mill RD, Hanson SJ, Cole MW (2021). Causally inform
 #### Peer-reviewed papers
 #### 2022
 
-**Ito T**, Murray JD (In press). Multi-task representations in human cortex transform along a sensory-to-motor hierarchy. *Nature Neuroscience*. [https://doi.org/10.1101/2021.11.29.470432](https://doi.org/10.1101/2021.11.29.470432)
+**Ito T**, Murray JD (2022). [Multitask representations in the human cortex transform along a sensory-to-motor hierarchy](../files/publications/Ito and Murray - 2022 - Multitask representations in the human cortex tran.pdf). *Nature Neuroscience*. [https://www.nature.com/articles/s41593-022-01224-0](https://www.nature.com/articles/s41593-022-01224-0)
 
 **Ito T**, Klinger T, Schultz DH, Murray JD, Cole MW, Rigotti M (2022). [Compositional generalization through abstract representations in human and artificial neural networks](../files/publications/Ito et al. - Compositional generalization through abstract repr.pdf). *Advances in Neural Information Processing Systems (NeurIPS)*. [https://openreview.net/forum?id=177GzUAds8U](https://openreview.net/forum?id=177GzUAds8U)
 
