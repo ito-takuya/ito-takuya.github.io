@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a postdoctoral researcher at Yale University working with [John Murray](https://murraylab.org). I was previously a PhD student at Rutgers University with [Michael Cole](https://www.colelab.org/).
+I am a postdoctoral research scientist working on computational neuroscience and artificial intelligence at the T.J. Watson Research Center, [IBM Research](https://research.ibm.com/). I was previously a postdoctoral researcher at Yale University working with [John Murray](https://murraylab.org). I obtained my PhD in Neuroscience at Rutgers University with [Michael Cole](https://www.colelab.org/).
 
 I am based in NYC.
 
@@ -15,7 +15,7 @@ I am based in NYC.
 
 ### Research Interest
 
-I study information processing in brains and neural models. More recently, my specific interests lie in understanding the structure of multi-task and compositional neural representations, and how they emerge in natural and artificial settings. My motivation is twofold: 1) To understand properties of the brain to better inform the design of computational models (e.g., to achieve and excede human-like performance); 2) To better understand cognitive/computational deficits in psychiatric illnesses. In the past, I have used human fMRI and non-human primate electrophysiology, though I also have interests in other empirical data modalities.
+I study information processing in brains and neural models. More recently, my specific interests lie in the representation learning and analysis of brains and neural models during the performance of complex tasks. My motivation is twofold: 1) To understand properties of the brain to better inform the design of computational models (e.g., to achieve and excede human-like performance); 2) To better understand cognitive/computational deficits in psychiatric illnesses. In the past, I have used human fMRI and non-human primate electrophysiology, though I also have interests in other empirical data modalities.
 
 I also have methodological interests in neural network modeling, network science, dynamical systems theory, and ML/statistics.
 
