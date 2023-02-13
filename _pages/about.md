@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a postdoctoral research scientist in computational neuroscience and artificial intelligence at the T.J. Watson Research Center, [IBM Research](https://research.ibm.com/). I was previously a postdoctoral researcher at Yale University working with [John Murray](https://murraylab.org). I obtained my PhD in Neuroscience at Rutgers University with [Michael Cole](https://www.colelab.org/).
+I am a postdoctoral research scientist at the T.J. Watson Research Center, [IBM Research](https://research.ibm.com/). I was previously a postdoctoral researcher at Yale University working with [John Murray](https://murraylab.org). I obtained my PhD in Neuroscience at Rutgers University with [Michael Cole](https://www.colelab.org/).
 
 I am based in NYC.
 
