@@ -11,7 +11,7 @@ I am a postdoctoral research scientist at the T.J. Watson Research Center, [IBM 
 
 I am based in NYC.
 
-#[My CV](https://drive.google.com/file/d/1nAB5iUn_TU9C3Y_Iysdx6VjkXRfYP8oi/view?usp=sharing)
+<> [My CV](https://drive.google.com/file/d/1nAB5iUn_TU9C3Y_Iysdx6VjkXRfYP8oi/view?usp=sharing)
 
 ### Research Interest
 
