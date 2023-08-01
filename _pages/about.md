@@ -62,7 +62,7 @@ Cocuzza CV, Sanchez-Romero R, **Ito T**, Mill RD, Keane BP, Cole MW (2022). Dist
 #### Peer-reviewed papers
 #### 2023
 
-Sanchez-Romero R, **Ito T**, Mill RD, Hanson SJ, Cole MW (2021). Causally informed activity flow models provide mechanistic insight into network-generated cognitive activations. *NeuroImage*. [https://doi.org/10.1016/j.neuroimage.2023.120300](https://doi.org/10.1016/j.neuroimage.2023.120300)
+Sanchez-Romero R, **Ito T**, Mill RD, Hanson SJ, Cole MW (2023). Causally informed activity flow models provide mechanistic insight into network-generated cognitive activations. *NeuroImage*. [https://doi.org/10.1016/j.neuroimage.2023.120300](https://doi.org/10.1016/j.neuroimage.2023.120300)
 
 **Ito T**, Murray JD (2023). [Multitask representations in the human cortex transform along a sensory-to-motor hierarchy](../files/publications/Ito and Murray - 2022 - Multitask representations in the human cortex tran.pdf). *Nature Neuroscience*. [https://www.nature.com/articles/s41593-022-01224-0](https://www.nature.com/articles/s41593-022-01224-0)
 
