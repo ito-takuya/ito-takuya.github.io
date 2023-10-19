@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-My research area is in Neuroscience and AI/ML. I am currently a postdoctoral research scientist at the T.J. Watson Research Center, [IBM Research](https://research.ibm.com/). I was previously a Swartz Fellow in Theoretical Neuroscience at Yale University working with [John Murray](https://murraylab.org). I completed my PhD in Neuroscience at Rutgers University with [Michael Cole](https://www.colelab.org/) in 2020, and my BA in Mathematics at Washington University in St. Louis in 2013.
+I am a Postdoctoral Research Scientist at the T.J. Watson Research Center, [IBM Research](https://research.ibm.com/). I was previously a Swartz Fellow in Theoretical Neuroscience at Yale University working with [John Murray](https://murraylab.org). I completed my PhD in Neuroscience at Rutgers University with [Michael Cole](https://www.colelab.org/) in 2020, and my BA in Mathematics at Washington University in St. Louis in 2013.
 
 I live in NYC.
 
@@ -17,7 +17,7 @@ I live in NYC.
 
 ### Research Interest
 
-I study information processing in brains and neural models. More recently, my interests lie in understanding the representational structure and generalization capacity of brains and neural models during the performance of complex tasks. My motivation is twofold: 1) To understand properties of the brain to better inform the design of computational models (e.g., to achieve and excede human-like performance); 2) To better understand the cognitive/computational deficits in psychiatric illness. In the past, I have used human fMRI and non-human primate electrophysiology, though I also have interests in other empirical data modalities.
+My research area is in Neuroscience and AI/ML. I study information processing in brains and neural models. More recently, my interests lie in understanding the representational structure and generalization capacity of brains and neural models during the performance of complex tasks. My motivation is twofold: 1) To understand properties of the brain to better inform the design of computational models (e.g., to achieve and excede human-like performance); 2) To better understand the cognitive/computational deficits in psychiatric illness. In the past, I have used human fMRI and non-human primate electrophysiology, though I also have interests in other empirical data modalities.
 
 I also have methodological interests in neural network modeling, network science, dynamical systems theory, and ML/statistics.
 
