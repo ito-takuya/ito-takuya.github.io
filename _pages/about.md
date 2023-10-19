@@ -17,7 +17,7 @@ I live in NYC.
 
 ### Research Interest
 
-My research area is in Neuroscience and AI/ML. I study information processing in brains and neural models. More recently, my interests lie in understanding the representational structure and generalization capacity of brains and neural models during the performance of complex tasks. My motivation is twofold: 1) To understand properties of the brain to better inform the design of computational models (e.g., to achieve and excede human-like performance); 2) To better understand the cognitive/computational deficits in psychiatric illness. In the past, I have used human fMRI and non-human primate electrophysiology, though I also have interests in other empirical data modalities.
+I study information processing in brains and neural models. More recently, my interests lie in understanding the representational structure and generalization capacity of brains and neural models during the performance of complex tasks. My motivation is twofold: 1) To understand properties of the brain to better inform the design of computational models (e.g., to achieve and excede human-like performance); 2) To better understand the cognitive/computational deficits in psychiatric illness. In the past, I have used human fMRI and non-human primate electrophysiology, though I also have interests in other empirical data modalities.
 
 I also have methodological interests in neural network modeling, network science, dynamical systems theory, and ML/statistics.
 
