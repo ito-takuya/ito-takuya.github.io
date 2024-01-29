@@ -17,12 +17,10 @@ I live in NYC.
 
 ### Research Interest
 
-I study information processing in brains and neural models. More recently, my interests lie in understanding the representational structure and generalization capacity of brains and neural models during the performance of complex tasks. My motivation is twofold: 1) To understand properties of the brain to better inform the design of computational models (e.g., to achieve and excede human-like performance); 2) To better understand the cognitive/computational deficits in psychiatric illness. In the past, I have used human fMRI and non-human primate electrophysiology, though I also have interests in other empirical data modalities.
+Broadly, my research is at the intersection of neuroscience and artificial intelligence. 
+More recently, my interests lie in understanding how symbolic computations can be learned and executed in neural systems (primarily artificial neural networks). 
+In the past, I have used neural data analysis and computational modeling to study the neural basis of cognition.
 
-I also have methodological interests in neural network modeling, network science, dynamical systems theory, and ML/statistics.
-
-
-<!---
 ### Education
 
 Rutgers University<br/>
@@ -56,11 +54,15 @@ brain data reveals representational transformations underlying adaptive behavior
 
 ### Publications
 #### Preprint papers
-**Ito T**, Murray JD (2022). Large-scale signal and noise correlations configure multi-task coding in human brain networks. *bioRxiv*. [https://www.biorxiv.org/content/10.1101/2022.11.23.517699](https://www.biorxiv.org/content/10.1101/2022.11.23.517699)
-
 Cocuzza CV, Sanchez-Romero R, **Ito T**, Mill RD, Keane BP, Cole MW (2022). Distributed network processes account for the majority of variance in localized visual category selectivity. *bioRxiv*. [https://www.biorxiv.org/content/10.1101/2022.02.19.481103](https://www.biorxiv.org/content/10.1101/2022.02.19.481103)
 
 #### Peer-reviewed papers
+#### 2024
+
+**Ito T**, Dan S, Rigotti M, Kozloski J, Campbell M (2024). On the generalization capacity of neural networks during generic multimodal reasoning. *International Conference on Learning Representations (ICLR)*. [http://arxiv.org/abs/2401.15030](http://arxiv.org/abs/2401.15030).
+
+**Ito T**, Murray JD (In press). The impact of functional correlations on task information coding. *Network Neuroscience*. [https://www.biorxiv.org/content/10.1101/2022.11.23.517699](https://www.biorxiv.org/content/10.1101/2022.11.23.517699)
+
 #### 2023
 
 Sanchez-Romero R, **Ito T**, Mill RD, Hanson SJ, Cole MW (2023). Causally informed activity flow models provide mechanistic insight into network-generated cognitive activations. *NeuroImage*. [https://doi.org/10.1016/j.neuroimage.2023.120300](https://doi.org/10.1016/j.neuroimage.2023.120300)
