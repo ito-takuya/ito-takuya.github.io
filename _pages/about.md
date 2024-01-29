@@ -19,7 +19,7 @@ I live in NYC.
 
 Broadly, my research is at the intersection of neuroscience and artificial intelligence. 
 More recently, my interests lie in understanding how symbolic computations can be learned and executed in neural systems (primarily artificial neural networks). 
-In the past, I have used neural data analysis and computational modeling to study the neural basis of cognition.
+In the past, I have used neural data analysis and computational modeling to study the neural basis of flexible (e.g., multitask) cognition in humans and non-human primates.
 
 ### Education
 
