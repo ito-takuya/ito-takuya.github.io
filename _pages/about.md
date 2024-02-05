@@ -17,7 +17,7 @@ I live in NYC.
 
 ### Research Interest
 
-Broadly, my research is in computational neuroscience and artificial intelligence. 
+My research is in computational neuroscience and artificial intelligence. 
 More recently, my interests lie in understanding how symbolic computations can be learned and executed in neural systems (primarily artificial neural networks). 
 In the past, I have used neural data analysis and computational modeling to study the neural basis of flexible (e.g., multitask) cognition in humans and non-human primates.
 
