@@ -40,7 +40,7 @@ Minor: Computer Science
 
 **Ito T**, Murray JD (2023). [Multitask representations in the human cortex transform along a sensory-to-motor hierarchy](../files/publications/Ito and Murray - 2022 - Multitask representations in the human cortex tran.pdf). *Nature Neuroscience*. [https://www.nature.com/articles/s41593-022-01224-0](https://www.nature.com/articles/s41593-022-01224-0)
 
-**Ito T**, Klinger T, Schultz DH, Murray JD, Cole MW, Rigotti M (2022). [Compositional generalization through abstract representations in human and artificial neural networks](../files/publications/Ito et al. - Compositional generalization through abstract repr.pdf). *Advances in Neural Information Processing Systems (NeurIPS)*. [https://openreview.net/forum?id=177GzUAds8U](https://openreview.net/forum?id=177GzUAds8U)
+**Ito T**, Klinger T, Schultz DH, Murray JD, Cole MW, Rigotti M (2022). [Compositional generalization through abstract representations in human and artificial neural networks](../files/publications/Ito et al. - Compositional generalization through abstract repr.pdf). *Advances in Neural Information Processing Systems (NeurIPS, Oral)*. [https://openreview.net/forum?id=177GzUAds8U](https://openreview.net/forum?id=177GzUAds8U)
 
 **Ito T**, Yang GR, Laurent P, Schultz DH, Cole MW (2022). [Constructing neural network models from
 brain data reveals representational transformations underlying adaptive behavior](../files/publications/Ito et al_2022_Constructing neural network models from brain data reveals representational.pdf). *Nature Communications*. [https://doi.org/10.1038/s41467-022-28323-7](https://doi.org/10.1038/s41467-022-28323-7)
@@ -71,7 +71,7 @@ Sanchez-Romero R, **Ito T**, Mill RD, Hanson SJ, Cole MW (2023). Causally inform
 
 #### 2022
 
-**Ito T**, Klinger T, Schultz DH, Murray JD, Cole MW, Rigotti M (2022). [Compositional generalization through abstract representations in human and artificial neural networks](../files/publications/Ito et al. - Compositional generalization through abstract repr.pdf). *Advances in Neural Information Processing Systems (NeurIPS)*. [https://openreview.net/forum?id=177GzUAds8U](https://openreview.net/forum?id=177GzUAds8U)
+**Ito T**, Klinger T, Schultz DH, Murray JD, Cole MW, Rigotti M (2022). [Compositional generalization through abstract representations in human and artificial neural networks](../files/publications/Ito et al. - Compositional generalization through abstract repr.pdf). *Advances in Neural Information Processing Systems (NeurIPS, Oral)*. [https://openreview.net/forum?id=177GzUAds8U](https://openreview.net/forum?id=177GzUAds8U)
 
 **Ito T**, Yang GR, Laurent P, Schultz DH, Cole MW (2022). [Constructing neural network models from
 brain data reveals representational transformations underlying adaptive behavior](../files/publications/Ito et al_2022_Constructing neural network models from brain data reveals representational.pdf). *Nature Communications*. [https://doi.org/10.1038/s41467-022-28323-7](https://doi.org/10.1038/s41467-022-28323-7)
