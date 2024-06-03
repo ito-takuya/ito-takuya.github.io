@@ -21,21 +21,6 @@ My research is in computational neuroscience and artificial intelligence.
 More recently, my interests lie in understanding how symbolic computations can be learned and executed in neural systems (primarily artificial neural networks). 
 In the past, I have used neural data analysis and computational modeling to study the neural basis of flexible (e.g., multitask) cognition in humans and non-human primates.
 
-### Education
-
-Rutgers University<br/>
-PhD (2015-2020)<br/>
-Neuroscience<br/>
-Dissertation: _Cognitive Information Transformation in Functional Brain Networks_
-
-
-
-Washington University in St. Louis<br/>
-BA (2009-2013)<br/>
-Majors: Mathematics, Philosophy-Neuroscience-Psychology<br/>
-Minor: Computer Science
-
-
 ### Selected publications
 
 **Ito T**, Murray JD (2023). [Multitask representations in the human cortex transform along a sensory-to-motor hierarchy](../files/publications/Ito and Murray - 2022 - Multitask representations in the human cortex tran.pdf). *Nature Neuroscience*. [https://www.nature.com/articles/s41593-022-01224-0](https://www.nature.com/articles/s41593-022-01224-0)
