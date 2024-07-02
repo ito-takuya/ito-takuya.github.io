@@ -48,7 +48,7 @@ Cocuzza CV, Sanchez-Romero R, **Ito T**, Mill RD, Keane BP, Cole MW (2024). Dist
 
 **Ito T**, Dan S, Rigotti M, Kozloski J, Campbell M (2024). On the generalization capacity of neural networks during generic multimodal reasoning. *International Conference on Learning Representations (ICLR)*. [http://arxiv.org/abs/2401.15030](http://arxiv.org/abs/2401.15030).
 
-**Ito T**, Murray JD (In press). The impact of functional correlations on task information coding. *Network Neuroscience*. [https://www.biorxiv.org/content/10.1101/2022.11.23.517699](https://www.biorxiv.org/content/10.1101/2022.11.23.517699)
+**Ito T**, Murray JD (2024). The impact of functional correlations on task information coding. *Network Neuroscience*. [https://doi.org/10.1162/netn_a_00402](https://doi.org/10.1162/netn_a_00402).
 
 #### 2023
 
