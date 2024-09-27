@@ -41,10 +41,9 @@ brain data reveals representational transformations underlying adaptive behavior
 #### Preprint papers
 **Ito T**, Cocchi L, Klinger T, Ram P, Campbell M, Hearne LJ (2024). The Importance of Positional Encoding Initialization in Transformers for Relational Reasoning. *arXiv*. [https://arxiv.org/abs/2406.08272](https://arxiv.org/abs/2406.08272)
 
-Cocuzza CV, Sanchez-Romero R, **Ito T**, Mill RD, Keane BP, Cole MW (2024). Distributed network processes account for the majority of variance in localized visual category selectivity. *bioRxiv*. [https://www.biorxiv.org/content/10.1101/2022.02.19.481103](https://www.biorxiv.org/content/10.1101/2022.02.19.481103)
-
 #### Peer-reviewed papers
 #### 2024
+Cocuzza CV, Sanchez-Romero R, **Ito T**, Mill RD, Keane BP, Cole MW (In Press). Distributed network flows generate localized category selectivity in human visual cortex. *PLOS Computational Biology*. [https://www.biorxiv.org/content/10.1101/2022.02.19.481103](https://www.biorxiv.org/content/10.1101/2022.02.19.481103)
 
 **Ito T**, Dan S, Rigotti M, Kozloski J, Campbell M (2024). On the generalization capacity of neural networks during generic multimodal reasoning. *International Conference on Learning Representations (ICLR)*. [http://arxiv.org/abs/2401.15030](http://arxiv.org/abs/2401.15030).
 
