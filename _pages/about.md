@@ -39,7 +39,7 @@ brain data reveals representational transformations underlying adaptive behavior
 
 ### Publications
 #### Preprint papers
-Robinson CN, Cocchi L, **Ito T**, Hearne LJ. Temporally delayed representations in alpha and beta rhythms in higher-order cortical networks track increasing relational integration demands. *bioRxiv*. [https://www.biorxiv.org/content/10.1101/2024.10.16.618779v1](https://www.biorxiv.org/content/10.1101/2024.10.16.618779v1)
+Robinson CN, Cocchi L, **Ito T**, Hearne LJ (2024). Temporally delayed representations in alpha and beta rhythms in higher-order cortical networks track increasing relational integration demands. *bioRxiv*. [https://www.biorxiv.org/content/10.1101/2024.10.16.618779v1](https://www.biorxiv.org/content/10.1101/2024.10.16.618779v1)
 
 **Ito T**, Cocchi L, Klinger T, Ram P, Campbell M, Hearne LJ (2024). The Importance of Positional Encoding Initialization in Transformers for Relational Reasoning. *arXiv*. [https://arxiv.org/abs/2406.08272](https://arxiv.org/abs/2406.08272)
 
