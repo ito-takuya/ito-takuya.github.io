@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a Postdoctoral Research Scientist at the T.J. Watson Research Center, [IBM Research](https://research.ibm.com/). I was previously a Swartz Fellow in Theoretical Neuroscience at Yale University working with [John Murray](https://murraylab.org). I completed my PhD in Neuroscience at Rutgers University with [Michael Cole](https://www.colelab.org/), and my BA in Mathematics at Washington University in St. Louis.
+I am a Postdoctoral Research Scientist at the T.J. Watson Research Center, [IBM Research](https://research.ibm.com/) in New York. I was previously a Swartz Fellow in Theoretical Neuroscience at Yale University working with [John Murray](https://murraylab.org). I completed my PhD in Neuroscience at Rutgers University with [Michael Cole](https://www.colelab.org/), and my BA in Mathematics at Washington University in St. Louis.
 
 I am from NYC.
 
