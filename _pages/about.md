@@ -18,19 +18,24 @@ I am from NYC.
 ### Research Interest
 
 My research is in computational neuroscience and artificial intelligence. 
-More recently, my interests lie in understanding how neural systems (e.g., artificial neural networks) systematically learn and generalize symbolically. 
+More recently, my interests lie in understanding how neural systems (e.g., artificial neural networks) learn to reason and flexibly manipulate symbols. 
+One specific target area I am interested in is compositional generalization.
 In the past, I have used neural data analysis and computational modeling to study the neural basis of flexible (e.g., multitask) cognition in humans and non-human primates.
 
 ### Selected publications
+**Ito T**, Campbell M, Horesh L, Klinger T, Ram P (2024). Quantifying artificial intelligence through algebraic generalization. *arXiv*. [http://arxiv.org/abs/2411.05943](http://arxiv.org/abs/2411.05943)
 
 **Ito T**, Murray JD (2023). [Multitask representations in the human cortex transform along a sensory-to-motor hierarchy](../files/publications/Ito and Murray - 2022 - Multitask representations in the human cortex tran.pdf). *Nature Neuroscience*. [https://www.nature.com/articles/s41593-022-01224-0](https://www.nature.com/articles/s41593-022-01224-0)
 
 **Ito T**, Klinger T, Schultz DH, Murray JD, Cole MW, Rigotti M (2022). [Compositional generalization through abstract representations in human and artificial neural networks](../files/publications/Ito et al. - Compositional generalization through abstract repr.pdf). *Advances in Neural Information Processing Systems (NeurIPS, Oral)*. [https://openreview.net/forum?id=177GzUAds8U](https://openreview.net/forum?id=177GzUAds8U)
 
+<!--
 **Ito T**, Yang GR, Laurent P, Schultz DH, Cole MW (2022). [Constructing neural network models from
 brain data reveals representational transformations underlying adaptive behavior](../files/publications/Ito et al_2022_Constructing neural network models from brain data reveals representational.pdf). *Nature Communications*. [https://doi.org/10.1038/s41467-022-28323-7](https://doi.org/10.1038/s41467-022-28323-7)
+-->
 
-<!-- **Ito T**, Hearne LJ, Cole MW (2020). [A cortical hierarchy of localized and distributed processes revealed via dissociation of task activations, connectivity changes, and intrinsic timescales](../files/publications/Ito et al_2020_A cortical hierarchy of localized and distributed processes revealed via.pdf). *NeuroImage*. [https://doi.org/10.1016/j.neuroimage.2020.117141](https://doi.org/10.1016/j.neuroimage.2020.117141)
+<!--
+**Ito T**, Hearne LJ, Cole MW (2020). [A cortical hierarchy of localized and distributed processes revealed via dissociation of task activations, connectivity changes, and intrinsic timescales](../files/publications/Ito et al_2020_A cortical hierarchy of localized and distributed processes revealed via.pdf). *NeuroImage*. [https://doi.org/10.1016/j.neuroimage.2020.117141](https://doi.org/10.1016/j.neuroimage.2020.117141)
 --> 
 
 **Ito T**, Brincat SL, Siegel M, Mill RD, He BJ, Miller EK, Rotstein HG, Cole MW (2020). [Task-evoked activity quenches neural correlations and variability across cortical areas](../files/publications/Ito et al_2020_Task-evoked activity quenches neural correlations and variability across.pdf). *PLOS Computational Biology*. [https://doi.org/10.1371/journal.pcbi.1007983](https://doi.org/10.1371/journal.pcbi.1007983)
