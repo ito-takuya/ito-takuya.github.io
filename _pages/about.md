@@ -110,7 +110,7 @@ Cole MW, **Ito T**, & Braver TS (2015). [Lateral prefrontal cortex contributes t
 
 Cole MW, **Ito T**, & Braver TS (2015). [The behavioral relevance of task information in human prefrontal cortex](../files/publications/Cole, Ito, Braver - 2015 - The Behavioral Relevance of Task Information in Human Prefrontal Cortex.pdf). *Cerebral Cortex* (New York, N.Y. : 1991), bhv072–. http://doi.org/10.1093/cercor/bhv072
 
-
+<!---
 
 ### Conference papers
 
@@ -168,7 +168,7 @@ Schultz DH, **Ito T**, Solomyak LI, Chen RH, Mill RD, Kulkarni KR, Cole MW. (Nov
 
 Cole MW, Schultz DH, Chen RH, Kulkarni KR, **Ito T**. (April, 2016). The cognitive relevance of resting-state fMRI: Spontaneously organized networks and brain states across rest and task. Cognitive Neuroscience Society, New York, NY.
 
-
+-->
 
 
 
