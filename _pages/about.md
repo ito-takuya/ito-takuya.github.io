@@ -18,8 +18,7 @@ I am from NYC.
 ### Research Interest
 
 My research is in computational neuroscience and artificial intelligence. 
-More recently, my interests lie in understanding how neural systems (e.g., artificial neural networks) learn to reason and flexibly manipulate symbols. 
-One specific target area I am interested in is compositional generalization.
+More recently, my interests lie in understanding how neural systems (e.g., artificial neural networks) learn to abstract and reason, as is required in compositional generalization.
 In the past, I have used neural data analysis and computational modeling to study the neural basis of flexible (e.g., multitask) cognition in humans and non-human primates.
 
 ### Selected publications
