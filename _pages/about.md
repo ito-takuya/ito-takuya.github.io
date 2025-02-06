@@ -18,8 +18,8 @@ I am from NYC.
 ### Research Interest
 
 My research is in computational neuroscience and artificial intelligence. 
-More recently, my interests lie in understanding how neural systems (e.g., artificial neural networks) learn to abstract and reason, as is required in compositional generalization.
-In the past, I have used neural data analysis and computational modeling to study the neural basis of flexible (e.g., multitask) cognition in humans and non-human primates.
+More recently, my interests lie in understanding how neural systems (e.g., artificial neural networks) learn to abstract, reason, and generalize; I am particularly interested in compositional generalization problems.
+In the past, I have used neural data analysis and computational modeling to study the neural basis of flexible cognition in humans and non-human primates.
 
 ### Selected publications
 **Ito T**, Campbell M, Horesh L, Klinger T, Ram P (2024). Quantifying artificial intelligence through algebraic generalization. *arXiv*. [http://arxiv.org/abs/2411.05943](http://arxiv.org/abs/2411.05943)
