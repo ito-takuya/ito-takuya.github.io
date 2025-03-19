@@ -43,6 +43,8 @@ brain data reveals representational transformations underlying adaptive behavior
 
 ### Publications
 #### Preprint papers
+**29.** Chakravarthula LN, **Ito T**, Tzalavras A, Cole MW (2025). Network geometry shapes multi-task representational transformations across human cortex. *bioRxiv*. [https://www.biorxiv.org/content/10.1101/2025.03.14.643366](https://www.biorxiv.org/content/10.1101/2025.03.14.643366)
+
 **28.** **Ito T**, Campbell M, Horesh L, Klinger T, Ram P (2024). Quantifying artificial intelligence through algebraic generalization. *arXiv*. [http://arxiv.org/abs/2411.05943](http://arxiv.org/abs/2411.05943)
 
 **27.** Robinson CN, Cocchi L, **Ito T**, Hearne LJ (2024). Temporally delayed representations in alpha and beta rhythms in higher-order cortical networks track increasing relational integration demands. *bioRxiv*. [https://www.biorxiv.org/content/10.1101/2024.10.16.618779v1](https://www.biorxiv.org/content/10.1101/2024.10.16.618779v1)
