@@ -17,10 +17,26 @@ I am from NYC.
 
 ### Research Interest
 
-My research is in computational neuroscience and artificial intelligence. 
-More recently, my interests lie in understanding how neural systems (e.g., artificial neural networks) learn to abstract, reason, and generalize; I am particularly interested in compositional generalization problems.
+My research is in artificial intelligence and computational neuroscience. 
+More recently, my interests lie in understanding how neural systems (e.g., artificial neural networks) learn to abstract, reason, and generalize; I am particularly interested in algorithmic reasoning and compositional generalization problems.
 In the past, I have used neural data analysis and computational modeling to study the neural basis of flexible cognition in humans and non-human primates.
 
+#### Representative ML papers
+**Ito T**, Campbell M, Horesh L, Klinger T, Ram P (2024). Quantifying artificial intelligence through algebraic generalization. *arXiv*. [http://arxiv.org/abs/2411.05943](http://arxiv.org/abs/2411.05943)
+
+**Ito T**, Cocchi L, Klinger T, Ram P, Campbell M, Hearne LJ (2024). Learning positional encodings in transformers depends on initialization. *arXiv*. [https://arxiv.org/abs/2406.08272](https://arxiv.org/abs/2406.08272)
+
+**Ito T**, Dan S, Rigotti M, Kozloski J, Campbell M (2024). On the generalization capacity of neural networks during generic multimodal reasoning. *International Conference on Learning Representations (ICLR)*. [http://arxiv.org/abs/2401.15030](http://arxiv.org/abs/2401.15030).
+
+#### Representative Neuroscience papers
+**Ito T**, Murray JD (2023). [Multitask representations in the human cortex transform along a sensory-to-motor hierarchy](../files/publications/Ito and Murray - 2022 - Multitask representations in the human cortex tran.pdf). *Nature Neuroscience*. [https://www.nature.com/articles/s41593-022-01224-0](https://www.nature.com/articles/s41593-022-01224-0)
+
+**Ito T**, Klinger T, Schultz DH, Murray JD, Cole MW, Rigotti M (2022). [Compositional generalization through abstract representations in human and artificial neural networks](../files/publications/Ito et al. - Compositional generalization through abstract repr.pdf). *Advances in Neural Information Processing Systems (NeurIPS, Oral)*. [https://openreview.net/forum?id=177GzUAds8U](https://openreview.net/forum?id=177GzUAds8U)
+
+**Ito T**, Kulkarni KR, Schultz DH, Mill RD, Chen RH, Solomyak LI, & Cole MW (2017). [Cognitive task information is transferred between brain regions via resting-state network topology](https://ito-takuya.github.io/files/publications/Ito%20et%20al.%20-%202017%20-%20Cognitive%20task%20information%20is%20transferred%20between%20brain%20regions%20via%20resting-state%20network%20topology.pdf). *Nature Communications*. [https://www.nature.com/articles/s41467-017-01000-w](https://www.nature.com/articles/s41467-017-01000-w).
+
+
+<!--
 ### Selected publications
 **Ito T**, Campbell M, Horesh L, Klinger T, Ram P (2024). Quantifying artificial intelligence through algebraic generalization. *arXiv*. [http://arxiv.org/abs/2411.05943](http://arxiv.org/abs/2411.05943)
 
@@ -31,17 +47,15 @@ In the past, I have used neural data analysis and computational modeling to stud
 <!--
 **Ito T**, Yang GR, Laurent P, Schultz DH, Cole MW (2022). [Constructing neural network models from
 brain data reveals representational transformations underlying adaptive behavior](../files/publications/Ito et al_2022_Constructing neural network models from brain data reveals representational.pdf). *Nature Communications*. [https://doi.org/10.1038/s41467-022-28323-7](https://doi.org/10.1038/s41467-022-28323-7)
--->
 
-<!--
 **Ito T**, Hearne LJ, Cole MW (2020). [A cortical hierarchy of localized and distributed processes revealed via dissociation of task activations, connectivity changes, and intrinsic timescales](../files/publications/Ito et al_2020_A cortical hierarchy of localized and distributed processes revealed via.pdf). *NeuroImage*. [https://doi.org/10.1016/j.neuroimage.2020.117141](https://doi.org/10.1016/j.neuroimage.2020.117141)
---> 
 
 **Ito T**, Brincat SL, Siegel M, Mill RD, He BJ, Miller EK, Rotstein HG, Cole MW (2020). [Task-evoked activity quenches neural correlations and variability across cortical areas](../files/publications/Ito et al_2020_Task-evoked activity quenches neural correlations and variability across.pdf). *PLOS Computational Biology*. [https://doi.org/10.1371/journal.pcbi.1007983](https://doi.org/10.1371/journal.pcbi.1007983)
 
 **Ito T**, Kulkarni KR, Schultz DH, Mill RD, Chen RH, Solomyak LI, & Cole MW (2017). [Cognitive task information is transferred between brain regions via resting-state network topology](https://ito-takuya.github.io/files/publications/Ito%20et%20al.%20-%202017%20-%20Cognitive%20task%20information%20is%20transferred%20between%20brain%20regions%20via%20resting-state%20network%20topology.pdf). *Nature Communications*. [https://www.nature.com/articles/s41467-017-01000-w](https://www.nature.com/articles/s41467-017-01000-w).
+-->
 
-### Publications
+### Full list of publications
 #### Preprint papers
 **29.** Chakravarthula LN, **Ito T**, Tzalavras A, Cole MW (2025). Network geometry shapes multi-task representational transformations across human cortex. *bioRxiv*. [https://www.biorxiv.org/content/10.1101/2025.03.14.643366](https://www.biorxiv.org/content/10.1101/2025.03.14.643366)
 
