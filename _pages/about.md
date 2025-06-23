@@ -24,7 +24,7 @@ In the past, I have used neural data analysis and computational modeling to stud
 #### Example ML Papers
 **Ito T**, Campbell M, Horesh L, Klinger T, Ram P (In press). Quantifying artificial intelligence through algorithmic generalization. *Nature Machine Intelligence*. [http://arxiv.org/abs/2411.05943](http://arxiv.org/abs/2411.05943)
 
-**Ito T**, Cocchi L, Klinger T, Ram P, Campbell M, Hearne LJ (2025). Learning positional encodings in transformers depends on initialization. *ICML Workshop on Actionable Interpretability*. [https://arxiv.org/abs/2406.08272](https://arxiv.org/abs/2406.08272)
+**Ito T**, Cocchi L, Klinger T, Ram P, Campbell M, Hearne LJ (2025). Learning interpretable positional encodings in transformers depends on initialization. *ICML Workshop on Actionable Interpretability*. [https://arxiv.org/abs/2406.08272](https://arxiv.org/abs/2406.08272)
 
 **Ito T**, Dan S, Rigotti M, Kozloski J, Campbell M (2024). On the generalization capacity of neural networks during generic multimodal reasoning. *International Conference on Learning Representations (ICLR)*. [http://arxiv.org/abs/2401.15030](http://arxiv.org/abs/2401.15030).
 
@@ -63,9 +63,9 @@ brain data reveals representational transformations underlying adaptive behavior
 #### 2025
 **28.** **Ito T**, Campbell M, Horesh L, Klinger T, Ram P (In press). Quantifying artificial intelligence through algorithmic generalization. *Nature Machine Intelligence*. [http://arxiv.org/abs/2411.05943](http://arxiv.org/abs/2411.05943)
 
-**27.** **Ito T**, Cocchi L, Klinger T, Ram P, Campbell M, Hearne LJ (2025). Learning positional encodings in transformers depends on initialization. *ICML Workshop on Actionable Interpretability*. [https://arxiv.org/abs/2406.08272](https://arxiv.org/abs/2406.08272)
+**27.** **Ito T**, Cocchi L, Klinger T, Ram P, Campbell M, Hearne LJ (2025). Learning interpretable positional encodings in transformers depends on initialization. *ICML Workshop on Actionable Interpretability*. [https://arxiv.org/abs/2406.08272](https://arxiv.org/abs/2406.08272)
 
-**26.** Robinson CN, Cocchi L, **Ito T**, Hearne LJ (In press). Temporally delayed representations in alpha and beta rhythms in higher-order cortical networks track increasing relational integration demands. *Human Brain Mapping*. [https://www.biorxiv.org/content/10.1101/2024.10.16.618779v1](https://www.biorxiv.org/content/10.1101/2024.10.16.618779v1)
+**26.** Robinson CN, Cocchi L, **Ito T**, Hearne LJ (In press). Relational integration demands are tracked by temporally delayed neural representations in alpha and beta rhythms within higher-order cortical networks. *Human Brain Mapping*. [https://www.biorxiv.org/content/10.1101/2024.10.16.618779v1](https://www.biorxiv.org/content/10.1101/2024.10.16.618779v1)
 
 #### 2024
 **25.** Lei X, **Ito T**, Bashivan P (2024). Geometry of naturalistic object representations in recurrent neural network models of working memory. *Advances in Neural Information Processing Systems (NeurIPS)*. [https://arxiv.org/abs/2411.02685](https://arxiv.org/abs/2411.02685)
