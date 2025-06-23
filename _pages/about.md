@@ -21,14 +21,14 @@ My research is in artificial intelligence and computational neuroscience.
 More recently, my interests lie in understanding how neural systems (e.g., artificial neural networks) learn to abstract, reason, and generalize; I am particularly interested in algorithmic reasoning and compositional generalization problems.
 In the past, I have used neural data analysis and computational modeling to study the neural basis of flexible cognition in humans and non-human primates.
 
-#### Representative ML papers
+#### Example ML Papers
 **Ito T**, Campbell M, Horesh L, Klinger T, Ram P (In press). Quantifying artificial intelligence through algorithmic generalization. *Nature Machine Intelligence*. [http://arxiv.org/abs/2411.05943](http://arxiv.org/abs/2411.05943)
 
 **Ito T**, Cocchi L, Klinger T, Ram P, Campbell M, Hearne LJ (2025). Learning positional encodings in transformers depends on initialization. *ICML Workshop on Actionable Interpretability*. [https://arxiv.org/abs/2406.08272](https://arxiv.org/abs/2406.08272)
 
 **Ito T**, Dan S, Rigotti M, Kozloski J, Campbell M (2024). On the generalization capacity of neural networks during generic multimodal reasoning. *International Conference on Learning Representations (ICLR)*. [http://arxiv.org/abs/2401.15030](http://arxiv.org/abs/2401.15030).
 
-#### Representative Neuroscience papers
+#### Example Neuroscience Papers
 **Ito T**, Murray JD (2023). [Multitask representations in the human cortex transform along a sensory-to-motor hierarchy](../files/publications/Ito and Murray - 2022 - Multitask representations in the human cortex tran.pdf). *Nature Neuroscience*. [https://www.nature.com/articles/s41593-022-01224-0](https://www.nature.com/articles/s41593-022-01224-0)
 
 **Ito T**, Klinger T, Schultz DH, Murray JD, Cole MW, Rigotti M (2022). [Compositional generalization through abstract representations in human and artificial neural networks](../files/publications/Ito et al. - Compositional generalization through abstract repr.pdf). *Advances in Neural Information Processing Systems (NeurIPS, Oral)*. [https://openreview.net/forum?id=177GzUAds8U](https://openreview.net/forum?id=177GzUAds8U)
