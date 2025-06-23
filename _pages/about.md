@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a Postdoctoral Research Scientist in the Mathematics & Theoretical Computer Science Department at the [IBM T.J. Watson Research Center](https://research.ibm.com/)  in New York. I was previously a Swartz Fellow in Theoretical Neuroscience at Yale University working with [John Murray](https://murraylab.org). I completed my PhD in Neuroscience at Rutgers University with [Michael Cole](https://www.colelab.org/), and my BA in Mathematics at Washington University in St. Louis.
+I am a Postdoctoral Research Scientist in the Mathematics & Theoretical Computer Science Department at the [IBM T.J. Watson Research Center](https://research.ibm.com/) in New York. I was previously a Swartz Fellow in Theoretical Neuroscience at Yale University working with [John Murray](https://murraylab.org). I completed my PhD in Neuroscience at Rutgers University with [Michael Cole](https://www.colelab.org/), and my BA in Mathematics at Washington University in St. Louis.
 
 I am from NYC.
 
@@ -22,9 +22,9 @@ More recently, my interests lie in understanding how neural systems (e.g., artif
 In the past, I have used neural data analysis and computational modeling to study the neural basis of flexible cognition in humans and non-human primates.
 
 #### Representative ML papers
-**Ito T**, Campbell M, Horesh L, Klinger T, Ram P (2024). Quantifying artificial intelligence through algebraic generalization. *arXiv*. [http://arxiv.org/abs/2411.05943](http://arxiv.org/abs/2411.05943)
+**Ito T**, Campbell M, Horesh L, Klinger T, Ram P (In press). Quantifying artificial intelligence through algorithmic generalization. *Nature Machine Intelligence*. [http://arxiv.org/abs/2411.05943](http://arxiv.org/abs/2411.05943)
 
-**Ito T**, Cocchi L, Klinger T, Ram P, Campbell M, Hearne LJ (2024). Learning positional encodings in transformers depends on initialization. *arXiv*. [https://arxiv.org/abs/2406.08272](https://arxiv.org/abs/2406.08272)
+**Ito T**, Cocchi L, Klinger T, Ram P, Campbell M, Hearne LJ (2025). Learning positional encodings in transformers depends on initialization. *ICML Workshop on Actionable Interpretability*. [https://arxiv.org/abs/2406.08272](https://arxiv.org/abs/2406.08272)
 
 **Ito T**, Dan S, Rigotti M, Kozloski J, Campbell M (2024). On the generalization capacity of neural networks during generic multimodal reasoning. *International Conference on Learning Representations (ICLR)*. [http://arxiv.org/abs/2401.15030](http://arxiv.org/abs/2401.15030).
 
@@ -59,13 +59,14 @@ brain data reveals representational transformations underlying adaptive behavior
 #### Preprint papers
 **29.** Chakravarthula LN, **Ito T**, Tzalavras A, Cole MW (2025). Network geometry shapes multi-task representational transformations across human cortex. *bioRxiv*. [https://www.biorxiv.org/content/10.1101/2025.03.14.643366](https://www.biorxiv.org/content/10.1101/2025.03.14.643366)
 
-**28.** **Ito T**, Campbell M, Horesh L, Klinger T, Ram P (2024). Quantifying artificial intelligence through algebraic generalization. *arXiv*. [http://arxiv.org/abs/2411.05943](http://arxiv.org/abs/2411.05943)
-
-**27.** Robinson CN, Cocchi L, **Ito T**, Hearne LJ (2024). Temporally delayed representations in alpha and beta rhythms in higher-order cortical networks track increasing relational integration demands. *bioRxiv*. [https://www.biorxiv.org/content/10.1101/2024.10.16.618779v1](https://www.biorxiv.org/content/10.1101/2024.10.16.618779v1)
-
-**26.** **Ito T**, Cocchi L, Klinger T, Ram P, Campbell M, Hearne LJ (2024). Learning positional encodings in transformers depends on initialization. *arXiv*. [https://arxiv.org/abs/2406.08272](https://arxiv.org/abs/2406.08272)
-
 #### Peer-reviewed papers
+#### 2025
+**28.** **Ito T**, Campbell M, Horesh L, Klinger T, Ram P (In press). Quantifying artificial intelligence through algorithmic generalization. *Nature Machine Intelligence*. [http://arxiv.org/abs/2411.05943](http://arxiv.org/abs/2411.05943)
+
+**27.** **Ito T**, Cocchi L, Klinger T, Ram P, Campbell M, Hearne LJ (2025). Learning positional encodings in transformers depends on initialization. *ICML Workshop on Actionable Interpretability*. [https://arxiv.org/abs/2406.08272](https://arxiv.org/abs/2406.08272)
+
+**26.** Robinson CN, Cocchi L, **Ito T**, Hearne LJ (In press). Temporally delayed representations in alpha and beta rhythms in higher-order cortical networks track increasing relational integration demands. *Human Brain Mapping*. [https://www.biorxiv.org/content/10.1101/2024.10.16.618779v1](https://www.biorxiv.org/content/10.1101/2024.10.16.618779v1)
+
 #### 2024
 **25.** Lei X, **Ito T**, Bashivan P (2024). Geometry of naturalistic object representations in recurrent neural network models of working memory. *Advances in Neural Information Processing Systems (NeurIPS)*. [https://arxiv.org/abs/2411.02685](https://arxiv.org/abs/2411.02685)
 
