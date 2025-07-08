@@ -67,7 +67,7 @@ brain data reveals representational transformations underlying adaptive behavior
 
 **27.** **Ito T**, Cocchi L, Klinger T, Ram P, Campbell M, Hearne LJ (2025). Learning interpretable positional encodings in transformers depends on initialization. *ICML Workshop on Actionable Interpretability*. [https://arxiv.org/abs/2406.08272](https://arxiv.org/abs/2406.08272)
 
-**26.** Robinson CN, Cocchi L, **Ito T**, Hearne LJ (In press). Relational integration demands are tracked by temporally delayed neural representations in alpha and beta rhythms within higher-order cortical networks. *Human Brain Mapping*. [https://www.biorxiv.org/content/10.1101/2024.10.16.618779v1](https://www.biorxiv.org/content/10.1101/2024.10.16.618779v1)
+**26.** Robinson CN, Cocchi L, **Ito T**, Hearne LJ (2025). Relational integration demands are tracked by temporally delayed neural representations in alpha and beta rhythms within higher-order cortical networks. *Human Brain Mapping*. [http://dx.doi.org/10.1002/hbm.70272](http://dx.doi.org/10.1002/hbm.70272)
 
 #### 2024
 **25.** Lei X, **Ito T**, Bashivan P (2024). Geometry of naturalistic object representations in recurrent neural network models of working memory. *Advances in Neural Information Processing Systems (NeurIPS)*. [https://arxiv.org/abs/2411.02685](https://arxiv.org/abs/2411.02685)
