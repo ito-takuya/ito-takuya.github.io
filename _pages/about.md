@@ -57,7 +57,9 @@ brain data reveals representational transformations underlying adaptive behavior
 
 ### Full list of publications
 #### Preprint papers
-**30.** Clarkson KL, Horesh L, **Ito T**, Park C, Ram P (2025). Finding Clustering Algorithms in the Transformer Architecture. *arXiv*. [https://arxiv.org/abs/2506.19125](https://arxiv.org/abs/2506.19125)
+**31.** Clarkson KL, Horesh L, **Ito T**, Park C, Ram P (2025). Finding Clustering Algorithms in the Transformer Architecture. *arXiv*. [https://arxiv.org/abs/2506.19125](https://arxiv.org/abs/2506.19125)
+
+**30.** Oh YH, Ann YJ, Lee JJ, **Ito T**, Froudist-Walsh S, Paquola C, Milham MP, Spreng RN, Margulies D, Bernhardt B, Woo CW, Hong SJ. *bioRxiv*. In vivo cartography of state-dependent signal flow hierarchy in the human cerebral cortex. [https://www.biorxiv.org/content/10.1101/2025.06.24.660962](https://www.biorxiv.org/content/10.1101/2025.06.24.660962)
 
 **29.** Chakravarthula LN, **Ito T**, Tzalavras A, Cole MW (2025). Network geometry shapes multi-task representational transformations across human cortex. *bioRxiv*. [https://www.biorxiv.org/content/10.1101/2025.03.14.643366](https://www.biorxiv.org/content/10.1101/2025.03.14.643366)
 
