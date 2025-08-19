@@ -23,8 +23,8 @@ In the past, I have used neural data analysis and computational modeling to stud
 
 #### Example ML Papers
 **Ito T**, Campbell M, Horesh L, Klinger T, Ram P (2025). Quantifying artificial intelligence through algorithmic generalization. *Nature Machine Intelligence*. [https://www.nature.com/articles/s42256-025-01092-w](https://www.nature.com/articles/s42256-025-01092-w) \
-$\cdot$ arXiv: [http://arxiv.org/abs/2411.05943](http://arxiv.org/abs/2411.05943) \
-$\cdot$ IBM blog: [https://research.ibm.com/blog/ai-algorithm-complexity](https://research.ibm.com/blog/ai-algorithm-complexity)
+arXiv: [http://arxiv.org/abs/2411.05943](http://arxiv.org/abs/2411.05943) \
+IBM blog: [https://research.ibm.com/blog/ai-algorithm-complexity](https://research.ibm.com/blog/ai-algorithm-complexity)
 
 **Ito T**, Cocchi L, Klinger T, Ram P, Campbell M, Hearne LJ (2025). Learning interpretable positional encodings in transformers depends on initialization. *ICML Workshop on Actionable Interpretability*. [https://arxiv.org/abs/2406.08272](https://arxiv.org/abs/2406.08272)
 
@@ -68,8 +68,8 @@ brain data reveals representational transformations underlying adaptive behavior
 #### Peer-reviewed papers
 #### 2025
 **28.** **Ito T**, Campbell M, Horesh L, Klinger T, Ram P (2025). Quantifying artificial intelligence through algorithmic generalization. *Nature Machine Intelligence*. [https://www.nature.com/articles/s42256-025-01092-w](https://www.nature.com/articles/s42256-025-01092-w) \
-$\cdot$ arXiv: [http://arxiv.org/abs/2411.05943](http://arxiv.org/abs/2411.05943) \
-$\cdot$ IBM blog: [https://research.ibm.com/blog/ai-algorithm-complexity](https://research.ibm.com/blog/ai-algorithm-complexity)
+arXiv: [http://arxiv.org/abs/2411.05943](http://arxiv.org/abs/2411.05943) \
+IBM blog: [https://research.ibm.com/blog/ai-algorithm-complexity](https://research.ibm.com/blog/ai-algorithm-complexity)
 
 **27.** **Ito T**, Cocchi L, Klinger T, Ram P, Campbell M, Hearne LJ (2025). Learning interpretable positional encodings in transformers depends on initialization. *ICML Workshop on Actionable Interpretability*. [https://arxiv.org/abs/2406.08272](https://arxiv.org/abs/2406.08272)
 
