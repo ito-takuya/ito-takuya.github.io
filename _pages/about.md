@@ -9,7 +9,7 @@ redirect_from:
 ---
 I am a Postdoctoral Research Scientist in the Mathematics & Theoretical Computer Science Department at the [IBM T.J. Watson Research Center](https://research.ibm.com/) in New York. I was previously a Swartz Fellow in Theoretical Neuroscience at Yale University. I completed my PhD in Neuroscience at Rutgers University, and my BA in Mathematics at Washington University in St. Louis.
 
-I am from NYC.
+I am from NYC. My hobbies include walking slowly, experiencing leisure, among a few others.
 
 <!---
 [My CV](https://drive.google.com/file/d/1nAB5iUn_TU9C3Y_Iysdx6VjkXRfYP8oi/view?usp=sharing)
