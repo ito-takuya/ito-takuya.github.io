@@ -59,6 +59,8 @@ brain data reveals representational transformations underlying adaptive behavior
 
 ### Full list of publications
 #### Preprint papers
+**32.** Cornelio C, **Ito T**, Cory-Wright R, Dash S, Horesh L (2025). The Need for Verification in AI-Driven Scientific Discovery. *arXiv*. [https://arxiv.org/abs/2509.01398](https://arxiv.org/abs/2509.01398)
+
 **31.** Clarkson KL, Horesh L, **Ito T**, Park C, Ram P (2025). Finding Clustering Algorithms in the Transformer Architecture. *arXiv*. [https://arxiv.org/abs/2506.19125](https://arxiv.org/abs/2506.19125)
 
 **30.** Oh YH, Ann YJ, Lee JJ, **Ito T**, Froudist-Walsh S, Paquola C, Milham MP, Spreng RN, Margulies D, Bernhardt B, Woo CW, Hong SJ. *bioRxiv*. In vivo cartography of state-dependent signal flow hierarchy in the human cerebral cortex. [https://www.biorxiv.org/content/10.1101/2025.06.24.660962](https://www.biorxiv.org/content/10.1101/2025.06.24.660962)
