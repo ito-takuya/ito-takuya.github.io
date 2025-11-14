@@ -59,6 +59,8 @@ brain data reveals representational transformations underlying adaptive behavior
 
 ### Full list of publications
 #### Preprint papers
+**33.** Hearne LJ, Robinson CN, Cocchi L, **Ito T** (2025). Aligning transformer circuit mechanisms to neural representations in relational reasoning. *bioRxiv*. [https://www.biorxiv.org/content/10.1101/2025.10.29.685457](https://www.biorxiv.org/content/10.1101/2025.10.29.685457)
+
 **32.** Cornelio C, **Ito T**, Cory-Wright R, Dash S, Horesh L (2025). The Need for Verification in AI-Driven Scientific Discovery. *arXiv*. [https://arxiv.org/abs/2509.01398](https://arxiv.org/abs/2509.01398)
 
 **31.** Clarkson KL, Horesh L, **Ito T**, Park C, Ram P (2025). Finding Clustering Algorithms in the Transformer Architecture. *arXiv*. [https://arxiv.org/abs/2506.19125](https://arxiv.org/abs/2506.19125)
