@@ -7,9 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a Postdoctoral Research Scientist in the Mathematics of Computation group at the [IBM T.J. Watson Research Center](https://research.ibm.com/) in New York. I was previously a Swartz Fellow in Theoretical Neuroscience at Yale University. I completed my PhD in Neuroscience at Rutgers University, and my BA in Mathematics at Washington University in St. Louis.
+I am a Research Scientist in the Mathematics of Computation Department at the [IBM T.J. Watson Research Center](https://research.ibm.com/) in New York. I was previously a Swartz Fellow in Theoretical Neuroscience at Yale University. I completed my PhD in Neuroscience at Rutgers University, and my BA in Mathematics at Washington University in St. Louis.
 
-I am from NYC. My hobbies include walking slowly, experiencing leisure, among a few others.
+I am from NYC.
 
 <!---
 [My CV](https://drive.google.com/file/d/1nAB5iUn_TU9C3Y_Iysdx6VjkXRfYP8oi/view?usp=sharing)
@@ -26,7 +26,11 @@ In the past, I have used neural data analysis and computational modeling to stud
 arXiv: [http://arxiv.org/abs/2411.05943](http://arxiv.org/abs/2411.05943) \
 IBM blog: [https://research.ibm.com/blog/ai-algorithm-complexity](https://research.ibm.com/blog/ai-algorithm-complexity)
 
+<!--
 **Ito T**, Cocchi L, Klinger T, Ram P, Campbell M, Hearne LJ (2025). Learning interpretable positional encodings in transformers depends on initialization. *ICML Workshop on Actionable Interpretability*. [https://arxiv.org/abs/2406.08272](https://arxiv.org/abs/2406.08272)
+-->
+
+**Ito T**, Puri R, Ram P (2025). Specifying exact circuit algorithms in universal transformers. *NeurIPS 5th Workshop on Mathematical Reasoning and AI*. [https://openreview.net/forum?id=W6Isa521Xg](https://openreview.net/forum?id=W6Isa521Xg)
 
 **Ito T**, Dan S, Rigotti M, Kozloski J, Campbell M (2024). On the generalization capacity of neural networks during generic multimodal reasoning. *International Conference on Learning Representations (ICLR)*. [http://arxiv.org/abs/2401.15030](http://arxiv.org/abs/2401.15030).
 
@@ -59,18 +63,21 @@ brain data reveals representational transformations underlying adaptive behavior
 
 ### Full list of publications
 #### Preprint papers
-**33.** Hearne LJ, Robinson CN, Cocchi L, **Ito T** (2025). Aligning transformer circuit mechanisms to neural representations in relational reasoning. *bioRxiv*. [https://www.biorxiv.org/content/10.1101/2025.10.29.685457](https://www.biorxiv.org/content/10.1101/2025.10.29.685457)
+**34.** Hearne LJ, Robinson CN, Cocchi L, **Ito T** (2025). Aligning transformer circuit mechanisms to neural representations in relational reasoning. *bioRxiv*. [https://www.biorxiv.org/content/10.1101/2025.10.29.685457](https://www.biorxiv.org/content/10.1101/2025.10.29.685457)
 
-**32.** Cornelio C, **Ito T**, Cory-Wright R, Dash S, Horesh L (2025). The Need for Verification in AI-Driven Scientific Discovery. *arXiv*. [https://arxiv.org/abs/2509.01398](https://arxiv.org/abs/2509.01398)
+**33.** Cornelio C, **Ito T**, Cory-Wright R, Dash S, Horesh L (2025). The Need for Verification in AI-Driven Scientific Discovery. *arXiv*. [https://arxiv.org/abs/2509.01398](https://arxiv.org/abs/2509.01398)
 
-**31.** Clarkson KL, Horesh L, **Ito T**, Park C, Ram P (2025). Finding Clustering Algorithms in the Transformer Architecture. *arXiv*. [https://arxiv.org/abs/2506.19125](https://arxiv.org/abs/2506.19125)
+**32.** Clarkson KL, Horesh L, **Ito T**, Park C, Ram P (2025). Finding Clustering Algorithms in the Transformer Architecture. *arXiv*. [https://arxiv.org/abs/2506.19125](https://arxiv.org/abs/2506.19125)
 
-**30.** Oh YH, Ann YJ, Lee JJ, **Ito T**, Froudist-Walsh S, Paquola C, Milham MP, Spreng RN, Margulies D, Bernhardt B, Woo CW, Hong SJ. *bioRxiv*. In vivo cartography of state-dependent signal flow hierarchy in the human cerebral cortex. [https://www.biorxiv.org/content/10.1101/2025.06.24.660962](https://www.biorxiv.org/content/10.1101/2025.06.24.660962)
+**31.** Oh YH, Ann YJ, Lee JJ, **Ito T**, Froudist-Walsh S, Paquola C, Milham MP, Spreng RN, Margulies D, Bernhardt B, Woo CW, Hong SJ. *bioRxiv*. In vivo cartography of state-dependent signal flow hierarchy in the human cerebral cortex. [https://www.biorxiv.org/content/10.1101/2025.06.24.660962](https://www.biorxiv.org/content/10.1101/2025.06.24.660962)
 
-**29.** Chakravarthula LN, **Ito T**, Tzalavras A, Cole MW (2025). Network geometry shapes multi-task representational transformations across human cortex. *bioRxiv*. [https://www.biorxiv.org/content/10.1101/2025.03.14.643366](https://www.biorxiv.org/content/10.1101/2025.03.14.643366)
+**30.** Chakravarthula LN, **Ito T**, Tzalavras A, Cole MW (2025). Network geometry shapes multi-task representational transformations across human cortex. *bioRxiv*. [https://www.biorxiv.org/content/10.1101/2025.03.14.643366](https://www.biorxiv.org/content/10.1101/2025.03.14.643366)
 
 #### Peer-reviewed papers
 #### 2025
+
+**29.** **Ito T**, Puri R, Ram P (2025). Specifying exact circuit algorithms in universal transformers. *NeurIPS 5th Workshop on Mathematical Reasoning and AI*. [https://openreview.net/forum?id=W6Isa521Xg](https://openreview.net/forum?id=W6Isa521Xg)
+
 **28.** **Ito T**, Campbell M, Horesh L, Klinger T, Ram P (2025). Quantifying artificial intelligence through algorithmic generalization. *Nature Machine Intelligence*. [https://www.nature.com/articles/s42256-025-01092-w](https://www.nature.com/articles/s42256-025-01092-w) \
 arXiv: [http://arxiv.org/abs/2411.05943](http://arxiv.org/abs/2411.05943) \
 IBM blog: [https://research.ibm.com/blog/ai-algorithm-complexity](https://research.ibm.com/blog/ai-algorithm-complexity)
