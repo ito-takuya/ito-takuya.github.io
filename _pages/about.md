@@ -63,17 +63,21 @@ brain data reveals representational transformations underlying adaptive behavior
 
 ### Full list of publications
 #### Preprint papers
-**34.** Hearne LJ, Robinson CN, Cocchi L, **Ito T** (2025). Aligning transformer circuit mechanisms to neural representations in relational reasoning. *bioRxiv*. [https://www.biorxiv.org/content/10.1101/2025.10.29.685457](https://www.biorxiv.org/content/10.1101/2025.10.29.685457)
+**35.** Hearne LJ, Robinson CN, Cocchi L, **Ito T** (2025). Aligning transformer circuit mechanisms to neural representations in relational reasoning. *bioRxiv*. [https://www.biorxiv.org/content/10.1101/2025.10.29.685457](https://www.biorxiv.org/content/10.1101/2025.10.29.685457)
 
-**33.** Cornelio C, **Ito T**, Cory-Wright R, Dash S, Horesh L (2025). The Need for Verification in AI-Driven Scientific Discovery. *arXiv*. [https://arxiv.org/abs/2509.01398](https://arxiv.org/abs/2509.01398)
+**34.** Clarkson KL, Horesh L, **Ito T**, Park C, Ram P (2025). Finding Clustering Algorithms in the Transformer Architecture. *arXiv*. [https://arxiv.org/abs/2506.19125](https://arxiv.org/abs/2506.19125)
 
-**32.** Clarkson KL, Horesh L, **Ito T**, Park C, Ram P (2025). Finding Clustering Algorithms in the Transformer Architecture. *arXiv*. [https://arxiv.org/abs/2506.19125](https://arxiv.org/abs/2506.19125)
+**33.** Oh YH, Ann YJ, Lee JJ, **Ito T**, Froudist-Walsh S, Paquola C, Milham MP, Spreng RN, Margulies D, Bernhardt B, Woo CW, Hong SJ. *bioRxiv*. In vivo cartography of state-dependent signal flow hierarchy in the human cerebral cortex. [https://www.biorxiv.org/content/10.1101/2025.06.24.660962](https://www.biorxiv.org/content/10.1101/2025.06.24.660962)
 
-**31.** Oh YH, Ann YJ, Lee JJ, **Ito T**, Froudist-Walsh S, Paquola C, Milham MP, Spreng RN, Margulies D, Bernhardt B, Woo CW, Hong SJ. *bioRxiv*. In vivo cartography of state-dependent signal flow hierarchy in the human cerebral cortex. [https://www.biorxiv.org/content/10.1101/2025.06.24.660962](https://www.biorxiv.org/content/10.1101/2025.06.24.660962)
-
-**30.** Chakravarthula LN, **Ito T**, Tzalavras A, Cole MW (2025). Network geometry shapes multi-task representational transformations across human cortex. *bioRxiv*. [https://www.biorxiv.org/content/10.1101/2025.03.14.643366](https://www.biorxiv.org/content/10.1101/2025.03.14.643366)
+**32.** Chakravarthula LN, **Ito T**, Tzalavras A, Cole MW (2025). Network geometry shapes multi-task representational transformations across human cortex. *bioRxiv*. [https://www.biorxiv.org/content/10.1101/2025.03.14.643366](https://www.biorxiv.org/content/10.1101/2025.03.14.643366)
 
 #### Peer-reviewed papers
+
+#### 2026
+**31.** Chakravarthula LN, Cole MW, **Ito T** (2026) Task Representational Dynamics For Compositional Generalization During Context-Dependent Cognitive Tasks. *ICLR Re-Align Workshop*. [https://openreview.net/forum?id=S26gAcCYFT](https://openreview.net/forum?id=S26gAcCYFT)
+
+**30.** Cornelio C, **Ito T**, Cory-Wright R, Dash S, Horesh L (2026). The Need for Verification in AI-Driven Scientific Discovery. *Philosophical Transactions of the Royal Society A: Mathematical, Physical and Engineering Sciences*. [https://doi.org/10.1098/rsta.2024.0591](https://doi.org/10.1098/rsta.2024.0591)
+
 #### 2025
 
 **29.** **Ito T**, Puri R, Ram P (2025). Specifying exact circuit algorithms in universal transformers. *NeurIPS 5th Workshop on Mathematical Reasoning and AI*. [https://openreview.net/forum?id=W6Isa521Xg](https://openreview.net/forum?id=W6Isa521Xg)
