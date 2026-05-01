@@ -72,7 +72,7 @@ brain data reveals representational transformations underlying adaptive behavior
 #### Peer-reviewed papers
 
 #### 2026
-**32.** Clarkson KL, Horesh L, **Ito T**, Park C, Ram P (2026). Transformer Circuits Can Realize Clustering Algorithms. *ICML (Spotlight)*. [https://arxiv.org/abs/2506.19125](https://arxiv.org/abs/2506.19125)
+**32.** Clarkson KL, Horesh L, **Ito T**, Park C, Ram P (2026). Transformer Circuits Can Realize Clustering Algorithms. *International Conference on Machine Learning (ICML, Spotlight)*. [https://arxiv.org/abs/2506.19125](https://arxiv.org/abs/2506.19125)
 
 **31.** Chakravarthula LN, Cole MW, **Ito T** (2026) Task Representational Dynamics For Compositional Generalization During Context-Dependent Cognitive Tasks. *ICLR Re-Align Workshop*. [https://openreview.net/forum?id=S26gAcCYFT](https://openreview.net/forum?id=S26gAcCYFT)
 
