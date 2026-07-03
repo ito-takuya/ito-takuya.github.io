@@ -7,7 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a Research Scientist in the Mathematics of Computation Department at the [IBM T.J. Watson Research Center](https://research.ibm.com/) in New York. I was previously a Swartz Fellow in Theoretical Neuroscience at Yale University. I completed my PhD in Neuroscience at Rutgers University, and my BA in Mathematics at Washington University in St. Louis.
+I am a Research Scientist at the [T.J. Watson Research Center](https://en.wikipedia.org/wiki/Thomas_J._Watson_Research_Center), [IBM Research](https://research.ibm.com/) in New York. 
+I was previously a Swartz Fellow in Theoretical Neuroscience at Yale University. 
+I completed my PhD in Neuroscience at Rutgers University, and my BA in Mathematics at Washington University in St. Louis.
 
 I am from NYC.
 
@@ -17,8 +19,8 @@ I am from NYC.
 
 ### Research Interest
 
-My research is in artificial intelligence and computational neuroscience. 
-More recently, my interests lie in understanding how neural systems (e.g., artificial neural networks) learn to abstract, reason, and generalize; I am particularly interested in algorithmic reasoning and compositional generalization problems.
+My research is in AI/ML and computational neuroscience. 
+My interests lie in understanding how neural systems (e.g., artificial neural networks) learn to abstract, reason, and generalize; I am particularly interested in algorithmic reasoning and compositional generalization problems.
 In the past, I have used neural data analysis and computational modeling to study the neural basis of flexible cognition in humans and non-human primates.
 
 #### Selected ML Papers
