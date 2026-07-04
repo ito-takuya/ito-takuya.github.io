@@ -7,9 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a Research Scientist at the [T.J. Watson Research Center](https://en.wikipedia.org/wiki/Thomas_J._Watson_Research_Center), [IBM Research](https://research.ibm.com/) in New York. 
-I was previously a Swartz Fellow in Theoretical Neuroscience at Yale University. 
-I completed my PhD in Neuroscience at Rutgers University, and my BA in Mathematics at Washington University in St. Louis.
+I am a Research Scientist at the [T.J. Watson Research Center](https://en.wikipedia.org/wiki/Thomas_J._Watson_Research_Center), [IBM Research](https://research.ibm.com/) in New York. I was previously a Swartz Fellow in Theoretical Neuroscience at Yale University. I completed my PhD in Neuroscience at Rutgers University, and my BA in Mathematics at Washington University in St. Louis.
 
 I am from NYC.
 
@@ -19,9 +17,7 @@ I am from NYC.
 
 ### Research Interest
 
-My research is in AI/ML and computational neuroscience. 
-My interests lie in understanding how neural systems (e.g., artificial neural networks) learn to abstract, reason, and generalize; I am particularly interested in algorithmic reasoning and compositional generalization problems.
-In the past, I have used neural data analysis and computational modeling to study the neural basis of flexible cognition in humans and non-human primates.
+My research is in AI/ML and computational neuroscience. My interests lie in understanding how neural systems (e.g., artificial neural networks) learn to abstract, reason, and generalize; I am particularly interested in algorithmic reasoning and compositional generalization problems. In the past, I have used neural data analysis and computational modeling to study the neural basis of flexible cognition in humans and non-human primates.
 
 #### Selected ML Papers
 **Ito T**, Campbell M, Horesh L, Klinger T, Ram P (2025). [Quantifying artificial intelligence through algorithmic generalization](../files/publications/Ito%20et%20al.%20-%202025%20-%20Quantifying%20artificial%20intelligence%20through%20algorithmic%20generalization.pdf). *Nature Machine Intelligence*. [https://www.nature.com/articles/s42256-025-01092-w](https://www.nature.com/articles/s42256-025-01092-w) \
