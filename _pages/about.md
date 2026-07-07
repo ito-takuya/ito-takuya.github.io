@@ -61,6 +61,8 @@ brain data reveals representational transformations underlying adaptive behavior
 
 ### Full list of publications
 #### Preprint papers
+**36.** Robinson CN, Hearne LJ, Iyer KK, **Ito T**, Roberts JA, Cocchi L (2026). Complementary frontoparietal and corticothalamic contributions to relational reasoning. *bioRxiv*. [https://www.biorxiv.org/content/10.64898/2026.07.03.736406](https://www.biorxiv.org/content/10.64898/2026.07.03.736406)
+
 **35.** Hearne LJ, Robinson CN, Cocchi L, **Ito T** (2025). Aligning transformer circuit mechanisms to neural representations in relational reasoning. *bioRxiv*. [https://www.biorxiv.org/content/10.1101/2025.10.29.685457](https://www.biorxiv.org/content/10.1101/2025.10.29.685457)
 
 #### Peer-reviewed papers
