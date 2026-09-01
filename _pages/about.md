@@ -11,6 +11,8 @@ I am a Research Scientist at the [T.J. Watson Research Center](https://en.wikipe
 
 I am from NYC.
 
+Link to my IBM page: [https://research.ibm.com/people/taku-ito](https://research.ibm.com/people/taku-ito)
+
 <!---
 [My CV](https://drive.google.com/file/d/1nAB5iUn_TU9C3Y_Iysdx6VjkXRfYP8oi/view?usp=sharing)
 -->
@@ -20,6 +22,9 @@ I am from NYC.
 My research is in AI/ML and computational neuroscience. My interests lie in understanding how neural systems (e.g., artificial neural networks) learn to abstract, reason, and generalize; I am particularly interested in algorithmic reasoning and compositional generalization problems. In the past, I have used neural data analysis and computational modeling to study the neural basis of flexible cognition in humans and non-human primates.
 
 #### Selected ML Papers
+
+**Ito T**, Puri R, Campbell M, Ram P (2026). Universal Transformers for Circuit Computations: Perfect Length Generalization in Tiny Transformers. *arXiv*. [https://arxiv.org/abs/2608.31067](https://arxiv.org/abs/2608.31067)
+
 **Ito T**, Campbell M, Horesh L, Klinger T, Ram P (2025). [Quantifying artificial intelligence through algorithmic generalization](../files/publications/Ito%20et%20al.%20-%202025%20-%20Quantifying%20artificial%20intelligence%20through%20algorithmic%20generalization.pdf). *Nature Machine Intelligence*. [https://www.nature.com/articles/s42256-025-01092-w](https://www.nature.com/articles/s42256-025-01092-w) \
 arXiv: [http://arxiv.org/abs/2411.05943](http://arxiv.org/abs/2411.05943) \
 IBM blog: [https://research.ibm.com/blog/ai-algorithm-complexity](https://research.ibm.com/blog/ai-algorithm-complexity)
@@ -27,8 +32,6 @@ IBM blog: [https://research.ibm.com/blog/ai-algorithm-complexity](https://resear
 <!--
 **Ito T**, Cocchi L, Klinger T, Ram P, Campbell M, Hearne LJ (2025). Learning interpretable positional encodings in transformers depends on initialization. *ICML Workshop on Actionable Interpretability*. [https://arxiv.org/abs/2406.08272](https://arxiv.org/abs/2406.08272)
 -->
-
-**Ito T**, Puri R, Ram P (2025). Specifying exact circuit algorithms in universal transformers. *NeurIPS 5th Workshop on Mathematical Reasoning and AI*. [https://openreview.net/forum?id=W6Isa521Xg](https://openreview.net/forum?id=W6Isa521Xg)
 
 **Ito T**, Dan S, Rigotti M, Kozloski J, Campbell M (2024). On the generalization capacity of neural networks during generic multimodal reasoning. *International Conference on Learning Representations (ICLR)*. [http://arxiv.org/abs/2401.15030](http://arxiv.org/abs/2401.15030).
 
@@ -61,6 +64,8 @@ brain data reveals representational transformations underlying adaptive behavior
 
 ### Full list of publications
 #### Preprint papers
+**37.** **Ito T**, Puri R, Campbell M, Ram P (2026). Universal Transformers for Circuit Computations: Perfect Length Generalization in Tiny Transformers. *arXiv*. [https://arxiv.org/abs/2608.31067](https://arxiv.org/abs/2608.31067)
+
 **36.** Robinson CN, Hearne LJ, Iyer KK, **Ito T**, Roberts JA, Cocchi L (2026). Complementary frontoparietal and corticothalamic contributions to relational reasoning. *bioRxiv*. [https://www.biorxiv.org/content/10.64898/2026.07.03.736406](https://www.biorxiv.org/content/10.64898/2026.07.03.736406)
 
 **35.** Hearne LJ, Robinson CN, Cocchi L, **Ito T** (2025). Aligning transformer circuit mechanisms to neural representations in relational reasoning. *bioRxiv*. [https://www.biorxiv.org/content/10.1101/2025.10.29.685457](https://www.biorxiv.org/content/10.1101/2025.10.29.685457)
