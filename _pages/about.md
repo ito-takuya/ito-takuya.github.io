@@ -64,20 +64,22 @@ brain data reveals representational transformations underlying adaptive behavior
 
 ### Full list of publications
 #### Preprint papers
-**37.** **Ito T**, Puri R, Campbell M, Ram P (2026). Universal Transformers for Circuit Computations: Perfect Length Generalization in Tiny Transformers. *arXiv*. [https://arxiv.org/abs/2608.31067](https://arxiv.org/abs/2608.31067)
+**38.** **Ito T**, Puri R, Campbell M, Ram P (2026). Universal Transformers for Circuit Computations: Perfect Length Generalization in Tiny Transformers. *arXiv*. [https://arxiv.org/abs/2608.31067](https://arxiv.org/abs/2608.31067)
 
-**36.** Robinson CN, Hearne LJ, Iyer KK, **Ito T**, Roberts JA, Cocchi L (2026). Complementary frontoparietal and corticothalamic contributions to relational reasoning. *bioRxiv*. [https://www.biorxiv.org/content/10.64898/2026.07.03.736406](https://www.biorxiv.org/content/10.64898/2026.07.03.736406)
+**37.** Robinson CN, Hearne LJ, Iyer KK, **Ito T**, Roberts JA, Cocchi L (2026). Complementary frontoparietal and corticothalamic contributions to relational reasoning. *bioRxiv*. [https://www.biorxiv.org/content/10.64898/2026.07.03.736406](https://www.biorxiv.org/content/10.64898/2026.07.03.736406)
 
-**35.** Hearne LJ, Robinson CN, Cocchi L, **Ito T** (2025). Aligning transformer circuit mechanisms to neural representations in relational reasoning. *bioRxiv*. [https://www.biorxiv.org/content/10.1101/2025.10.29.685457](https://www.biorxiv.org/content/10.1101/2025.10.29.685457)
+**36.** Hearne LJ, Robinson CN, Cocchi L, **Ito T** (2025). Aligning transformer circuit mechanisms to neural representations in relational reasoning. *bioRxiv*. [https://www.biorxiv.org/content/10.1101/2025.10.29.685457](https://www.biorxiv.org/content/10.1101/2025.10.29.685457)
 
 #### Peer-reviewed papers
 
 #### 2026
+**35.** Park C, Clarkson KL, Horesh L, **Ito T**, Ram P (2026). Leaner Transformers Can Easily Learn to Cluster. *NeurIPS*. [https://arxiv.org/abs/2610.09760](https://arxiv.org/abs/2610.09760)
+
 **34.** Chakravarthula LN, **Ito T**, Tzalavras A, Cole MW (In press). Network geometry shapes multi-task representational transformations across human cortex. *Nature Neuroscience*. [https://www.biorxiv.org/content/10.1101/2025.03.14.643366](https://www.biorxiv.org/content/10.1101/2025.03.14.643366)
 
-**33.** Oh YH, Ann YJ, Lee JJ, **Ito T**, Froudist-Walsh S, Paquola C, Milham MP, Spreng RN, Margulies D, Bernhardt B, Woo CW, Hong SJ (In press). *Nature Neuroscience*. State-dependent signal flow hierarchy in the human cerebral cortex. [https://www.biorxiv.org/content/10.1101/2025.06.24.660962](https://www.biorxiv.org/content/10.1101/2025.06.24.660962)
+**33.** Oh YH, Ann YJ, Lee JJ, **Ito T**, Froudist-Walsh S, Paquola C, Milham MP, Spreng RN, Margulies D, Bernhardt B, Woo CW, Hong SJ (2026). *Nature Neuroscience*. State-dependent signal flow hierarchy in the human cerebral cortex. [https://www.nature.com/articles/s41593-026-02389-8](https://www.nature.com/articles/s41593-026-02389-8)
 
-**32.** Clarkson KL, Horesh L, **Ito T**, Park C, Ram P (2026). Transformer Circuits Can Realize Clustering Algorithms. *International Conference on Machine Learning (ICML, Spotlight)*. [https://arxiv.org/abs/2506.19125](https://arxiv.org/abs/2506.19125)
+**32.** Clarkson KL, Horesh L, **Ito T**, Park C, Ram P (2026). Transformer Circuits Can Realize Clustering Algorithms. *ICML (Spotlight)*. [https://arxiv.org/abs/2506.19125](https://arxiv.org/abs/2506.19125)
 
 **31.** Chakravarthula LN, Cole MW, **Ito T** (2026) Task Representational Dynamics For Compositional Generalization During Context-Dependent Cognitive Tasks. *ICLR Re-Align Workshop*. [https://openreview.net/forum?id=S26gAcCYFT](https://openreview.net/forum?id=S26gAcCYFT)
 
